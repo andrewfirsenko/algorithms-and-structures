@@ -6,25 +6,55 @@
 //
 
 #include <iostream>
+#include <functional>
+#include <vector>
 #include "linear_search.hpp"
 
-const int N = 100;
+struct Option {
+    std::string command;
+    std::string description;
+    std::function<void ()> action;
+    
+    Option(std::string command, std::string description, std::function<void ()> action) {
+        this->command = command;
+        this->description = description;
+        this->action = action;
+    }
+};
+
+void printOptions(std::vector<Option>& options);
+
+// MARK: - Main
 
 int main(int argc, const char * argv[]) {
     
-    int array[N];
-    int number;
+    std::vector<Option> options = {
+        Option("1", "Linear search", linearSearch),
+        Option("exit", "Exit from app", []() {})
+    };
     
-    for(int i = 0; i < N; i++) {
-        array[i] = i;
-    }
-    
-    std::cout << "Linear Search" << std::endl;
-    std::cout << "Enter your number: ";
-    std::cin >> number;
-    
-    int index = linearSearch(array, N, number);
-    std::cout << "Found index = " << index <<  std::endl;
+    std::string option;
+    do {
+        printOptions(options);
+        std::cout << "> ";
+        std::cin >> option;
+        
+        for(int i = 0; i < options.size(); i++) {
+            if (options[i].command == option) {
+                // Run option
+                options[i].action();
+            }
+        }
+    } while (option != "exit");
     
     return 0;
+}
+
+// MARK: - Functions
+
+void printOptions(std::vector<Option>& options) {
+    std::cout << "Search options:" << std::endl;
+    for(int i = 0; i < options.size(); i++) {
+        std::cout << " [" << options[i].command << "] - " << options[i].description << std::endl;
+    }
 }

@@ -10,6 +10,6 @@
 
 #include <stdio.h>
 
-int linearSearch(int array[], int N, int number);
+void linearSearch();
 
 #endif /* linear_search_hpp */
