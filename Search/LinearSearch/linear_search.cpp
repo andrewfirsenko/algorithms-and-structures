@@ -8,7 +8,7 @@
 #include "linear_search.hpp"
 #include <iostream>
 
-int searchIndex(int array[], int N, int number);
+int search(int array[], int N, int number);
 
 // MARK: - Main
 
@@ -26,14 +26,14 @@ void linearSearch() {
     std::cout << std::endl;
     std::cout << "Enter number: ";
     std::cin >> number;
-    int index = searchIndex(array, N, number);
+    int index = search(array, N, number);
     std::cout << "Found index is " << index << std::endl;
     std::cout << std::endl;
 }
 
 // MARK: - Functions
 
-int searchIndex(int array[], int N, int number) {
+int search(int array[], int N, int number) {
     for (int i = 0; i < N; i++) {
         if (array[i] == number) {
             // Found
