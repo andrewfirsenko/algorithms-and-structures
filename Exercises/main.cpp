@@ -8,7 +8,9 @@
 #include <iostream>
 #include <functional>
 #include <vector>
+
 #include "factorial.hpp"
+#include "euclid.hpp"
 
 struct Option {
     std::string command;
@@ -30,6 +32,7 @@ int main(int argc, const char * argv[]) {
     
     std::vector<Option> options = {
         Option("1", "Factorial", factorial_main),
+        Option("2", "Euclid gcd", euclid_main),
         Option("exit", "Exit from app", []() {})
     };
     
