@@ -10,20 +10,20 @@
 #include <cstdint>
 #include <cmath>
 
-double f(double x);
+double f(double x, int a, int b, int c, int d);
 
 int main(int argc, const char * argv[]) {
     
-    long double c = 0.0;
-    std::cin >> c;
+    int a = 0, b = 0, c = 0, d = 0;
+    std::cin >> a >> b >> c >> d;
     
-    long double lBound = 0.0; // Answer
-    long double rBound = std::sqrt(c);
-    long double delta = 0.0000001;
+    double lBound = -MAXFLOAT; // Answer
+    double rBound = MAXFLOAT;
+    double delta = 0.000001;
     
     while (rBound - lBound > delta) {
         double mid = (lBound + rBound) / 2;
-        if (c >= f(mid)) {
+        if (0 >= f(mid, a, b, c, d)) {
             lBound = mid;
         } else {
             rBound = mid;
@@ -35,6 +35,6 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 
-double f(double x) {
-    return std::pow(x, 2) + std::sqrt(x + 1);
+double f(double x, int a, int b, int c, int d) {
+    return a * std::pow(x, 3) + b * std::pow(x, 2) + c * x + d;
 }
