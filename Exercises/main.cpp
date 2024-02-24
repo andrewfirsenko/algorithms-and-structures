@@ -12,6 +12,8 @@
 #include "factorial.hpp"
 #include "euclid.hpp"
 #include "merge_two_sorted_array.hpp"
+#include "hanoi.hpp"
+#include "generate_binary.hpp"
 
 struct Option {
     std::string command;
@@ -35,6 +37,8 @@ int main(int argc, const char * argv[]) {
         Option("1", "Factorial", factorial_main),
         Option("2", "Euclid gcd", euclid_main),
         Option("3", "Merge two sorted array", merge_two_sorted_array),
+        Option("4", "Hanoi", main_hanoi),
+        Option("5", "Generate binary", main_generate_binary),
         Option("exit", "Exit from app", []() {})
     };
     
