@@ -7,6 +7,8 @@
 
 #include <iostream>
 
+#ifdef NEED_SKIP
+
 int main(int argc, const char * argv[]) {
     
     const int ALPHABET_OFFSET = 65;
@@ -43,3 +45,5 @@ int main(int argc, const char * argv[]) {
     
     return 0;
 }
+
+#endif
