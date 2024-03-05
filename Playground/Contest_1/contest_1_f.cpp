@@ -1,12 +1,14 @@
 //
-//  main.cpp
+//  contest_1_f.cpp
 //  Playground
 //
-//  Created by Andrey Firsenko on 19.02.2024.
+//  Created by Andrey Firsenko on 04.03.2024.
 //
 
 #include <iostream>
 #include <cstdint>
+
+#ifdef NEED_SKIP
 
 int64_t merge_sort(int32_t *array, int arraySize);
 
@@ -81,3 +83,5 @@ int64_t merge_sort(int32_t *array, int arraySize) {
     delete[] buffer;
     return result;
 }
+
+#endif
