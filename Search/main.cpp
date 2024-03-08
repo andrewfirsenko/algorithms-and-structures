@@ -8,7 +8,9 @@
 #include <iostream>
 #include <functional>
 #include <vector>
+
 #include "linear_search.hpp"
+#include "binary_search.hpp"
 
 struct Option {
     std::string command;
@@ -30,6 +32,7 @@ int main(int argc, const char * argv[]) {
     
     std::vector<Option> options = {
         Option("1", "Linear search", linearSearch),
+        Option("2", "Binary search", main_binary_search),
         Option("exit", "Exit from app", []() {})
     };
     
