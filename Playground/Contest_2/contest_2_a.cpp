@@ -1,13 +1,15 @@
 //
-//  main.cpp
+//  contest_2_a.cpp
 //  Playground
 //
-//  Created by Andrey Firsenko on 19.02.2024.
+//  Created by Andrey Firsenko on 09.03.2024.
 //
 
 #include <iostream>
 #include <cstdint>
 #include <stack>
+
+#ifdef NEED_SKIP
 
 struct StackElement {
     
@@ -53,3 +55,5 @@ int main(int argc, const char * argv[]) {
         }
     }
 }
+
+#endif
