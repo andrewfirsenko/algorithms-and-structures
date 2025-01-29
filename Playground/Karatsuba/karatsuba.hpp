@@ -10,4 +10,6 @@
 
 #include <stdio.h>
 
+int mainKaratsuba();
+
 #endif /* karatsuba_hpp */
