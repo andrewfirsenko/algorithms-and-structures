@@ -60,3 +60,70 @@ public class Queue<T> {
         }
     }
 }
+
+// This is an implementation for LeetCode
+
+class MyCircularQueue {
+    
+    private var queue: [Int]
+    private var headIndex: Int?
+    private var tailIndex: Int?
+
+    init(_ k: Int) {
+        self.queue = Array(repeating: 0, count: k)
+    }
+    
+    func enQueue(_ value: Int) -> Bool {
+        if isFull() { return false }
+        
+        if isEmpty() {
+            queue[0] = value
+            headIndex = 0
+            tailIndex = 0
+            return true
+        } else if let oldTailIndex = tailIndex {
+            let newTailIndex = (oldTailIndex + 1) % queue.count
+            queue[newTailIndex] = value
+            tailIndex = newTailIndex
+            return true
+        } else {
+            return false
+        }
+    }
+    
+    func deQueue() -> Bool {
+        if isEmpty() { return false }
+        
+        if headIndex == tailIndex {
+            headIndex = nil
+            tailIndex = nil
+            return true
+        } else if let headIndex {
+            self.headIndex = (headIndex + 1) % queue.count
+            return true
+        } else {
+            return false
+        }
+    }
+    
+    func Front() -> Int {
+        guard let headIndex else { return -1 }
+        return queue[headIndex]
+    }
+    
+    func Rear() -> Int {
+        guard let tailIndex else { return -1 }
+        return queue[tailIndex]
+    }
+    
+    func isEmpty() -> Bool {
+        return headIndex == nil
+    }
+    
+    func isFull() -> Bool {
+        guard let headIndex, let tailIndex else {
+            return false
+        }
+        return (tailIndex + 1) % queue.count == headIndex
+    }
+}
