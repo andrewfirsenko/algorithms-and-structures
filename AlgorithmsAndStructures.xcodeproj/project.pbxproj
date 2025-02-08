@@ -7,35 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		492233372D578DDC00084FB1 /* contest_1_e.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922330A2D578DDC00084FB1 /* contest_1_e.cpp */; };
-		492233382D578DDC00084FB1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233042D578DDC00084FB1 /* main.cpp */; };
-		492233392D578DDC00084FB1 /* hanoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922331F2D578DDC00084FB1 /* hanoi.cpp */; };
-		4922333A2D578DDC00084FB1 /* generate_permutations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233192D578DDC00084FB1 /* generate_permutations.cpp */; };
-		4922333B2D578DDC00084FB1 /* contest_2_a.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922330F2D578DDC00084FB1 /* contest_2_a.cpp */; };
-		4922333C2D578DDC00084FB1 /* binary_search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922332A2D578DDC00084FB1 /* binary_search.cpp */; };
-		4922333D2D578DDC00084FB1 /* 712.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492232F22D578DDC00084FB1 /* 712.cpp */; };
-		4922333E2D578DDC00084FB1 /* merge_sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233322D578DDC00084FB1 /* merge_sort.cpp */; };
-		4922333F2D578DDC00084FB1 /* contest_1_f.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922330B2D578DDC00084FB1 /* contest_1_f.cpp */; };
-		492233402D578DDC00084FB1 /* contest_1_h.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922330C2D578DDC00084FB1 /* contest_1_h.cpp */; };
-		492233412D578DDC00084FB1 /* contest_1_a.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233062D578DDC00084FB1 /* contest_1_a.cpp */; };
-		492233422D578DDC00084FB1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922332F2D578DDC00084FB1 /* main.cpp */; };
-		492233432D578DDC00084FB1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492232F42D578DDC00084FB1 /* main.cpp */; };
-		492233442D578DDC00084FB1 /* linear_search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922332D2D578DDC00084FB1 /* linear_search.cpp */; };
-		492233452D578DDC00084FB1 /* contest_1_c.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233082D578DDC00084FB1 /* contest_1_c.cpp */; };
-		492233462D578DDC00084FB1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233272D578DDC00084FB1 /* main.cpp */; };
-		492233472D578DDC00084FB1 /* contest_1_b.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233072D578DDC00084FB1 /* contest_1_b.cpp */; };
-		492233482D578DDC00084FB1 /* contest_1_d.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233092D578DDC00084FB1 /* contest_1_d.cpp */; };
-		492233492D578DDC00084FB1 /* karatsuba.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233222D578DDC00084FB1 /* karatsuba.cpp */; };
-		4922334A2D578DDC00084FB1 /* factorial.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233162D578DDC00084FB1 /* factorial.cpp */; };
-		4922334B2D578DDC00084FB1 /* merge_two_sorted_array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233252D578DDC00084FB1 /* merge_two_sorted_array.cpp */; };
-		4922334C2D578DDC00084FB1 /* generate_binary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4922331C2D578DDC00084FB1 /* generate_binary.cpp */; };
-		4922334D2D578DDC00084FB1 /* euclid.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233132D578DDC00084FB1 /* euclid.cpp */; };
-		4922334E2D578DDC00084FB1 /* 2769. Find the Maximum Achievable Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492232FF2D578DDC00084FB1 /* 2769. Find the Maximum Achievable Number.cpp */; };
-		4922334F2D578DDC00084FB1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 492233342D578DDC00084FB1 /* main.cpp */; };
+		49D7825B2D57CF1F00B2B0FB /* DataStructures in Frameworks */ = {isa = PBXBuildFile; productRef = 49D7825A2D57CF1F00B2B0FB /* DataStructures */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		492232E32D578D8F00084FB1 /* CopyFiles */ = {
+		4922336A2D579F1B00084FB1 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -47,7 +23,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		492232E52D578D8F00084FB1 /* AlgorithmsAndStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmsAndStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -59,38 +34,13 @@
 		492232FB2D578DDC00084FB1 /* 1800. Maximum Ascending Subarray Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1800. Maximum Ascending Subarray Sum.playground"; sourceTree = "<group>"; };
 		492232FC2D578DDC00084FB1 /* 1920. Build Array from Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1920. Build Array from Permutation.playground"; sourceTree = "<group>"; };
 		492232FD2D578DDC00084FB1 /* 1929. Concatenation of Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1929. Concatenation of Array.playground"; sourceTree = "<group>"; };
-		492232FE2D578DDC00084FB1 /* 2349. Design a Number Container System.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2349. Design a Number Container System.playground"; sourceTree = "<group>"; };
+		492232FE2D578DDC00084FB1 /* 2349. Design a Number Container System.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2349. Design a Number Container System.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232FF2D578DDC00084FB1 /* 2769. Find the Maximum Achievable Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2769. Find the Maximum Achievable Number.cpp"; sourceTree = "<group>"; };
-		492233002D578DDC00084FB1 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground"; sourceTree = "<group>"; };
-		492233012D578DDC00084FB1 /* 3151. Special Array I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3151. Special Array I.playground"; sourceTree = "<group>"; };
-		492233022D578DDC00084FB1 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; };
+		492233002D578DDC00084FB1 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		492233012D578DDC00084FB1 /* 3151. Special Array I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3151. Special Array I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		492233022D578DDC00084FB1 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492233032D578DDC00084FB1 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100552. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; };
 		492233042D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		492233062D578DDC00084FB1 /* contest_1_a.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_1_a.cpp; sourceTree = "<group>"; };
-		492233072D578DDC00084FB1 /* contest_1_b.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_1_b.cpp; sourceTree = "<group>"; };
-		492233082D578DDC00084FB1 /* contest_1_c.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_1_c.cpp; sourceTree = "<group>"; };
-		492233092D578DDC00084FB1 /* contest_1_d.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_1_d.cpp; sourceTree = "<group>"; };
-		4922330A2D578DDC00084FB1 /* contest_1_e.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_1_e.cpp; sourceTree = "<group>"; };
-		4922330B2D578DDC00084FB1 /* contest_1_f.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_1_f.cpp; sourceTree = "<group>"; };
-		4922330C2D578DDC00084FB1 /* contest_1_h.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_1_h.cpp; sourceTree = "<group>"; };
-		4922330D2D578DDC00084FB1 /* contest-40164-ru.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "contest-40164-ru.pdf"; sourceTree = "<group>"; };
-		4922330F2D578DDC00084FB1 /* contest_2_a.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = contest_2_a.cpp; sourceTree = "<group>"; };
-		492233102D578DDC00084FB1 /* contest-40293-ru.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "contest-40293-ru.pdf"; sourceTree = "<group>"; };
-		492233122D578DDC00084FB1 /* euclid.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = euclid.hpp; sourceTree = "<group>"; };
-		492233132D578DDC00084FB1 /* euclid.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = euclid.cpp; sourceTree = "<group>"; };
-		492233152D578DDC00084FB1 /* factorial.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = factorial.hpp; sourceTree = "<group>"; };
-		492233162D578DDC00084FB1 /* factorial.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = factorial.cpp; sourceTree = "<group>"; };
-		492233182D578DDC00084FB1 /* generate_permutations.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = generate_permutations.hpp; sourceTree = "<group>"; };
-		492233192D578DDC00084FB1 /* generate_permutations.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = generate_permutations.cpp; sourceTree = "<group>"; };
-		4922331B2D578DDC00084FB1 /* generate_binary.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = generate_binary.hpp; sourceTree = "<group>"; };
-		4922331C2D578DDC00084FB1 /* generate_binary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = generate_binary.cpp; sourceTree = "<group>"; };
-		4922331E2D578DDC00084FB1 /* hanoi.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = hanoi.hpp; sourceTree = "<group>"; };
-		4922331F2D578DDC00084FB1 /* hanoi.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hanoi.cpp; sourceTree = "<group>"; };
-		492233212D578DDC00084FB1 /* karatsuba.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = karatsuba.hpp; sourceTree = "<group>"; };
-		492233222D578DDC00084FB1 /* karatsuba.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = karatsuba.cpp; sourceTree = "<group>"; };
-		492233242D578DDC00084FB1 /* merge_two_sorted_array.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = merge_two_sorted_array.hpp; sourceTree = "<group>"; };
-		492233252D578DDC00084FB1 /* merge_two_sorted_array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_two_sorted_array.cpp; sourceTree = "<group>"; };
-		492233272D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		492233292D578DDC00084FB1 /* binary_search.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = binary_search.hpp; sourceTree = "<group>"; };
 		4922332A2D578DDC00084FB1 /* binary_search.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binary_search.cpp; sourceTree = "<group>"; };
 		4922332C2D578DDC00084FB1 /* linear_search.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = linear_search.hpp; sourceTree = "<group>"; };
@@ -100,14 +50,36 @@
 		492233322D578DDC00084FB1 /* merge_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_sort.cpp; sourceTree = "<group>"; };
 		492233342D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		492233352D578DDC00084FB1 /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; };
-		492233502D5794D100084FB1 /* Contest_2_B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Contest_2_B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4922336C2D579F1B00084FB1 /* Playground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Playground; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		491C1D212D57A0EB005222B8 /* Exceptions for "Playground" folder in "Playground" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Contest_2/Contest_2_B.swift,
+			);
+			target = 4922336B2D579F1B00084FB1 /* Playground */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4922336D2D579F1B00084FB1 /* Playground */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				491C1D212D57A0EB005222B8 /* Exceptions for "Playground" folder in "Playground" target */,
+			);
+			path = Playground;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXFrameworksBuildPhase section */
-		492232E22D578D8F00084FB1 /* Frameworks */ = {
+		492233692D579F1B00084FB1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49D7825B2D57CF1F00B2B0FB /* DataStructures in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,9 +91,9 @@
 			children = (
 				492232F52D578DDC00084FB1 /* Acmp */,
 				492233052D578DDC00084FB1 /* LeetCode */,
-				492233282D578DDC00084FB1 /* Playground */,
 				492233302D578DDC00084FB1 /* Search */,
 				492233362D578DDC00084FB1 /* Sort */,
+				4922336D2D579F1B00084FB1 /* Playground */,
 				492232E62D578D8F00084FB1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -129,7 +101,7 @@
 		492232E62D578D8F00084FB1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				492232E52D578D8F00084FB1 /* AlgorithmsAndStructures */,
+				4922336C2D579F1B00084FB1 /* Playground */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -172,111 +144,6 @@
 				492233042D578DDC00084FB1 /* main.cpp */,
 			);
 			path = LeetCode;
-			sourceTree = "<group>";
-		};
-		4922330E2D578DDC00084FB1 /* Contest_1 */ = {
-			isa = PBXGroup;
-			children = (
-				492233062D578DDC00084FB1 /* contest_1_a.cpp */,
-				492233072D578DDC00084FB1 /* contest_1_b.cpp */,
-				492233082D578DDC00084FB1 /* contest_1_c.cpp */,
-				492233092D578DDC00084FB1 /* contest_1_d.cpp */,
-				4922330A2D578DDC00084FB1 /* contest_1_e.cpp */,
-				4922330B2D578DDC00084FB1 /* contest_1_f.cpp */,
-				4922330C2D578DDC00084FB1 /* contest_1_h.cpp */,
-				4922330D2D578DDC00084FB1 /* contest-40164-ru.pdf */,
-			);
-			path = Contest_1;
-			sourceTree = "<group>";
-		};
-		492233112D578DDC00084FB1 /* Contest_2 */ = {
-			isa = PBXGroup;
-			children = (
-				4922330F2D578DDC00084FB1 /* contest_2_a.cpp */,
-				492233102D578DDC00084FB1 /* contest-40293-ru.pdf */,
-				492233502D5794D100084FB1 /* Contest_2_B.playground */,
-			);
-			path = Contest_2;
-			sourceTree = "<group>";
-		};
-		492233142D578DDC00084FB1 /* Euclid */ = {
-			isa = PBXGroup;
-			children = (
-				492233122D578DDC00084FB1 /* euclid.hpp */,
-				492233132D578DDC00084FB1 /* euclid.cpp */,
-			);
-			path = Euclid;
-			sourceTree = "<group>";
-		};
-		492233172D578DDC00084FB1 /* Factorial */ = {
-			isa = PBXGroup;
-			children = (
-				492233152D578DDC00084FB1 /* factorial.hpp */,
-				492233162D578DDC00084FB1 /* factorial.cpp */,
-			);
-			path = Factorial;
-			sourceTree = "<group>";
-		};
-		4922331A2D578DDC00084FB1 /* GeneratePermutations */ = {
-			isa = PBXGroup;
-			children = (
-				492233182D578DDC00084FB1 /* generate_permutations.hpp */,
-				492233192D578DDC00084FB1 /* generate_permutations.cpp */,
-			);
-			path = GeneratePermutations;
-			sourceTree = "<group>";
-		};
-		4922331D2D578DDC00084FB1 /* GenrateBinary */ = {
-			isa = PBXGroup;
-			children = (
-				4922331B2D578DDC00084FB1 /* generate_binary.hpp */,
-				4922331C2D578DDC00084FB1 /* generate_binary.cpp */,
-			);
-			path = GenrateBinary;
-			sourceTree = "<group>";
-		};
-		492233202D578DDC00084FB1 /* Hanoi */ = {
-			isa = PBXGroup;
-			children = (
-				4922331E2D578DDC00084FB1 /* hanoi.hpp */,
-				4922331F2D578DDC00084FB1 /* hanoi.cpp */,
-			);
-			path = Hanoi;
-			sourceTree = "<group>";
-		};
-		492233232D578DDC00084FB1 /* Karatsuba */ = {
-			isa = PBXGroup;
-			children = (
-				492233212D578DDC00084FB1 /* karatsuba.hpp */,
-				492233222D578DDC00084FB1 /* karatsuba.cpp */,
-			);
-			path = Karatsuba;
-			sourceTree = "<group>";
-		};
-		492233262D578DDC00084FB1 /* MergeTwoSortedArray */ = {
-			isa = PBXGroup;
-			children = (
-				492233242D578DDC00084FB1 /* merge_two_sorted_array.hpp */,
-				492233252D578DDC00084FB1 /* merge_two_sorted_array.cpp */,
-			);
-			path = MergeTwoSortedArray;
-			sourceTree = "<group>";
-		};
-		492233282D578DDC00084FB1 /* Playground */ = {
-			isa = PBXGroup;
-			children = (
-				4922330E2D578DDC00084FB1 /* Contest_1 */,
-				492233112D578DDC00084FB1 /* Contest_2 */,
-				492233142D578DDC00084FB1 /* Euclid */,
-				492233172D578DDC00084FB1 /* Factorial */,
-				4922331A2D578DDC00084FB1 /* GeneratePermutations */,
-				4922331D2D578DDC00084FB1 /* GenrateBinary */,
-				492233202D578DDC00084FB1 /* Hanoi */,
-				492233232D578DDC00084FB1 /* Karatsuba */,
-				492233262D578DDC00084FB1 /* MergeTwoSortedArray */,
-				492233272D578DDC00084FB1 /* main.cpp */,
-			);
-			path = Playground;
 			sourceTree = "<group>";
 		};
 		4922332B2D578DDC00084FB1 /* BinarySearch */ = {
@@ -329,23 +196,27 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		492232E42D578D8F00084FB1 /* AlgorithmsAndStructures */ = {
+		4922336B2D579F1B00084FB1 /* Playground */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 492232EC2D578D8F00084FB1 /* Build configuration list for PBXNativeTarget "AlgorithmsAndStructures" */;
+			buildConfigurationList = 492233702D579F1B00084FB1 /* Build configuration list for PBXNativeTarget "Playground" */;
 			buildPhases = (
-				492232E12D578D8F00084FB1 /* Sources */,
-				492232E22D578D8F00084FB1 /* Frameworks */,
-				492232E32D578D8F00084FB1 /* CopyFiles */,
+				492233682D579F1B00084FB1 /* Sources */,
+				492233692D579F1B00084FB1 /* Frameworks */,
+				4922336A2D579F1B00084FB1 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AlgorithmsAndStructures;
-			packageProductDependencies = (
+			fileSystemSynchronizedGroups = (
+				4922336D2D579F1B00084FB1 /* Playground */,
 			);
-			productName = AlgorithmsAndStructures;
-			productReference = 492232E52D578D8F00084FB1 /* AlgorithmsAndStructures */;
+			name = Playground;
+			packageProductDependencies = (
+				49D7825A2D57CF1F00B2B0FB /* DataStructures */,
+			);
+			productName = Playground;
+			productReference = 4922336C2D579F1B00084FB1 /* Playground */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -358,7 +229,7 @@
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					492232E42D578D8F00084FB1 = {
+					4922336B2D579F1B00084FB1 = {
 						CreatedOnToolsVersion = 16.1;
 					};
 				};
@@ -372,46 +243,24 @@
 			);
 			mainGroup = 492232DC2D578D8F00084FB1;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				49D782592D57CF1F00B2B0FB /* XCLocalSwiftPackageReference "DataStructures" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 492232E62D578D8F00084FB1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				492232E42D578D8F00084FB1 /* AlgorithmsAndStructures */,
+				4922336B2D579F1B00084FB1 /* Playground */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		492232E12D578D8F00084FB1 /* Sources */ = {
+		492233682D579F1B00084FB1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				492233372D578DDC00084FB1 /* contest_1_e.cpp in Sources */,
-				492233382D578DDC00084FB1 /* main.cpp in Sources */,
-				492233392D578DDC00084FB1 /* hanoi.cpp in Sources */,
-				4922333A2D578DDC00084FB1 /* generate_permutations.cpp in Sources */,
-				4922333B2D578DDC00084FB1 /* contest_2_a.cpp in Sources */,
-				4922333C2D578DDC00084FB1 /* binary_search.cpp in Sources */,
-				4922333D2D578DDC00084FB1 /* 712.cpp in Sources */,
-				4922333E2D578DDC00084FB1 /* merge_sort.cpp in Sources */,
-				4922333F2D578DDC00084FB1 /* contest_1_f.cpp in Sources */,
-				492233402D578DDC00084FB1 /* contest_1_h.cpp in Sources */,
-				492233412D578DDC00084FB1 /* contest_1_a.cpp in Sources */,
-				492233422D578DDC00084FB1 /* main.cpp in Sources */,
-				492233432D578DDC00084FB1 /* main.cpp in Sources */,
-				492233442D578DDC00084FB1 /* linear_search.cpp in Sources */,
-				492233452D578DDC00084FB1 /* contest_1_c.cpp in Sources */,
-				492233462D578DDC00084FB1 /* main.cpp in Sources */,
-				492233472D578DDC00084FB1 /* contest_1_b.cpp in Sources */,
-				492233482D578DDC00084FB1 /* contest_1_d.cpp in Sources */,
-				492233492D578DDC00084FB1 /* karatsuba.cpp in Sources */,
-				4922334A2D578DDC00084FB1 /* factorial.cpp in Sources */,
-				4922334B2D578DDC00084FB1 /* merge_two_sorted_array.cpp in Sources */,
-				4922334C2D578DDC00084FB1 /* generate_binary.cpp in Sources */,
-				4922334D2D578DDC00084FB1 /* euclid.cpp in Sources */,
-				4922334E2D578DDC00084FB1 /* 2769. Find the Maximum Achievable Number.cpp in Sources */,
-				4922334F2D578DDC00084FB1 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -536,7 +385,7 @@
 			};
 			name = Release;
 		};
-		492232ED2D578D8F00084FB1 /* Debug */ = {
+		492233712D579F1B00084FB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -547,7 +396,7 @@
 			};
 			name = Debug;
 		};
-		492232EE2D578D8F00084FB1 /* Release */ = {
+		492233722D579F1B00084FB1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -570,16 +419,30 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		492232EC2D578D8F00084FB1 /* Build configuration list for PBXNativeTarget "AlgorithmsAndStructures" */ = {
+		492233702D579F1B00084FB1 /* Build configuration list for PBXNativeTarget "Playground" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				492232ED2D578D8F00084FB1 /* Debug */,
-				492232EE2D578D8F00084FB1 /* Release */,
+				492233712D579F1B00084FB1 /* Debug */,
+				492233722D579F1B00084FB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		49D782592D57CF1F00B2B0FB /* XCLocalSwiftPackageReference "DataStructures" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = DataStructures;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		49D7825A2D57CF1F00B2B0FB /* DataStructures */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = DataStructures;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 492232DD2D578D8F00084FB1 /* Project object */;
 }
