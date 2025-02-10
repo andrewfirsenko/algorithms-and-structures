@@ -36,6 +36,7 @@
 		492233342D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		492233352D578DDC00084FB1 /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; };
 		4922336C2D579F1B00084FB1 /* Playground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Playground; sourceTree = BUILT_PRODUCTS_DIR; };
+		495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3174. Clear Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
 		49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; };
@@ -197,6 +198,7 @@
 				49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */,
 				49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */,
 				49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */,
+				495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
