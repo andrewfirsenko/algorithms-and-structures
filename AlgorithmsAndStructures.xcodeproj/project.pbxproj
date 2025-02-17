@@ -42,6 +42,7 @@
 		495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3066. Minimum Operations to Exceed Threshold Value II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
+		499FFD8D2D63B3EA00569E33 /* Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; };
 		49AB52112D58969D0068EE55 /* 1694. Reformat Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1694. Reformat Phone Number.playground"; sourceTree = "<group>"; };
 		49AB52122D58969D0068EE55 /* 1726. Tuple with Same Product.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1726. Tuple with Same Product.playground"; sourceTree = "<group>"; };
@@ -205,6 +206,7 @@
 				495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */,
 				495D0D342D5CA24100BB9C8E /* 2342. Max Sum of a Pair With Equal Sum of Digits.playground */,
 				495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */,
+				499FFD8D2D63B3EA00569E33 /* Number of Islands.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
