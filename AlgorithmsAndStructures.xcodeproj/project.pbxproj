@@ -61,6 +61,7 @@
 		49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; };
 		49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100552. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; };
 		49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1980. Find Unique Binary String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -213,6 +214,7 @@
 				499FFDCD2D646C7500569E33 /* Open the Lock.playground */,
 				499FFE0D2D65A28400569E33 /* 1415. The k-th Lexicographical String of All Happy Strings of Length n.playground */,
 				49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */,
+				49F710472D67571800FFB0E7 /* Perfect Squares.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
