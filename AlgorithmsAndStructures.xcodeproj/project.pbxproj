@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		490A26EA2D685F0200A503FA /* Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -215,6 +216,7 @@
 				499FFE0D2D65A28400569E33 /* 1415. The k-th Lexicographical String of All Happy Strings of Length n.playground */,
 				49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */,
 				49F710472D67571800FFB0E7 /* Perfect Squares.playground */,
+				490A26EA2D685F0200A503FA /* Valid Parentheses.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
