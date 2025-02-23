@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		490A26EA2D685F0200A503FA /* Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -219,6 +220,7 @@
 				49F710472D67571800FFB0E7 /* Perfect Squares.playground */,
 				490A26EA2D685F0200A503FA /* Valid Parentheses.playground */,
 				493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */,
+				491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
