@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		490A26EA2D685F0200A503FA /* Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -45,7 +46,7 @@
 		495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3066. Minimum Operations to Exceed Threshold Value II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
-		499FFD8D2D63B3EA00569E33 /* Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		499FFD8D2D63B3EA00569E33 /* Number of Islands (BFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (BFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		499FFDCD2D646C7500569E33 /* Open the Lock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Open the Lock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		499FFE0D2D65A28400569E33 /* 1415. The k-th Lexicographical String of All Happy Strings of Length n.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1415. The k-th Lexicographical String of All Happy Strings of Length n.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; };
@@ -213,7 +214,7 @@
 				495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */,
 				495D0D342D5CA24100BB9C8E /* 2342. Max Sum of a Pair With Equal Sum of Digits.playground */,
 				495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */,
-				499FFD8D2D63B3EA00569E33 /* Number of Islands.playground */,
+				499FFD8D2D63B3EA00569E33 /* Number of Islands (BFS).playground */,
 				499FFDCD2D646C7500569E33 /* Open the Lock.playground */,
 				499FFE0D2D65A28400569E33 /* 1415. The k-th Lexicographical String of All Happy Strings of Length n.playground */,
 				49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */,
@@ -221,6 +222,7 @@
 				490A26EA2D685F0200A503FA /* Valid Parentheses.playground */,
 				493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */,
 				491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */,
+				491381522D6C468300D9F82B /* Number of Islands (DFS).playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
