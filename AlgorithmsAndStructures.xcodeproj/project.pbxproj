@@ -27,6 +27,8 @@
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4913828A2D703CFF00D9F82B /* CloneGraph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CloneGraph.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4913829D2D703D2200D9F82B /* Target Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Target Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -225,6 +227,8 @@
 				493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */,
 				491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */,
 				491381522D6C468300D9F82B /* Number of Islands (DFS).playground */,
+				4913828A2D703CFF00D9F82B /* CloneGraph.playground */,
+				4913829D2D703D2200D9F82B /* Target Sum.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
