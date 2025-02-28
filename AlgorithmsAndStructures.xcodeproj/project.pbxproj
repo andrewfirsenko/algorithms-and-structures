@@ -29,6 +29,7 @@
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4913828A2D703CFF00D9F82B /* CloneGraph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CloneGraph.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4913829D2D703D2200D9F82B /* Target Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Target Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		491382D42D71A73000D9F82B /* Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -229,6 +230,7 @@
 				491381522D6C468300D9F82B /* Number of Islands (DFS).playground */,
 				4913828A2D703CFF00D9F82B /* CloneGraph.playground */,
 				4913829D2D703D2200D9F82B /* Target Sum.playground */,
+				491382D42D71A73000D9F82B /* Binary Tree Inorder Traversal.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
