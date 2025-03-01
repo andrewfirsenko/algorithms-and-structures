@@ -68,6 +68,7 @@
 		49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3151. Special Array I.playground"; sourceTree = "<group>"; };
 		49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; };
 		49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100552. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; };
+		49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2460. Apply Operations to an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1980. Find Unique Binary String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -231,6 +232,7 @@
 				4913828A2D703CFF00D9F82B /* CloneGraph.playground */,
 				4913829D2D703D2200D9F82B /* Target Sum.playground */,
 				491382D42D71A73000D9F82B /* Binary Tree Inorder Traversal.playground */,
+				49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
