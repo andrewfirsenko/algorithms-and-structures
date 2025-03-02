@@ -71,6 +71,8 @@
 		49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2460. Apply Operations to an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D200842D7351C10060ED5A /* Q1. Transform Array by Parity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Transform Array by Parity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D200852D7352B80060ED5A /* Q2. Find the Number of Copy Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Find the Number of Copy Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49D200862D735F690060ED5A /* Q3. Find Minimum Cost to Remove Array Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q3. Find Minimum Cost to Remove Array Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2570. Merge Two 2D Arrays by Summing Values.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1980. Find Unique Binary String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -237,6 +239,8 @@
 				49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */,
 				49D200842D7351C10060ED5A /* Q1. Transform Array by Parity.playground */,
 				49D200852D7352B80060ED5A /* Q2. Find the Number of Copy Arrays.playground */,
+				49D200862D735F690060ED5A /* Q3. Find Minimum Cost to Remove Array Elements.playground */,
+				49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
