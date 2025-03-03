@@ -6,22 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		49D7825B2D57CF1F00B2B0FB /* DataStructures in Frameworks */ = {isa = PBXBuildFile; productRef = 49D7825A2D57CF1F00B2B0FB /* DataStructures */; };
-/* End PBXBuildFile section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		4922336A2D579F1B00084FB1 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 1;
-		};
-/* End PBXCopyFilesBuildPhase section */
-
 /* Begin PBXFileReference section */
 		490A26EA2D685F0200A503FA /* Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -42,7 +26,6 @@
 		492233322D578DDC00084FB1 /* merge_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_sort.cpp; sourceTree = "<group>"; };
 		492233342D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		492233352D578DDC00084FB1 /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4922336C2D579F1B00084FB1 /* Playground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Playground; sourceTree = BUILT_PRODUCTS_DIR; };
 		493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Daily Temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3174. Clear Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1910. Remove All Occurrences of a Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -78,37 +61,13 @@
 		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		491C1D212D57A0EB005222B8 /* Exceptions for "Playground" folder in "Playground" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Contest_2/Contest_2_B.swift,
-			);
-			target = 4922336B2D579F1B00084FB1 /* Playground */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		4922336D2D579F1B00084FB1 /* Playground */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				491C1D212D57A0EB005222B8 /* Exceptions for "Playground" folder in "Playground" target */,
-			);
 			path = Playground;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
-
-/* Begin PBXFrameworksBuildPhase section */
-		492233692D579F1B00084FB1 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				49D7825B2D57CF1F00B2B0FB /* DataStructures in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		492232DC2D578D8F00084FB1 = {
@@ -126,7 +85,6 @@
 		492232E62D578D8F00084FB1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4922336C2D579F1B00084FB1 /* Playground */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -249,32 +207,6 @@
 		};
 /* End PBXGroup section */
 
-/* Begin PBXNativeTarget section */
-		4922336B2D579F1B00084FB1 /* Playground */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 492233702D579F1B00084FB1 /* Build configuration list for PBXNativeTarget "Playground" */;
-			buildPhases = (
-				492233682D579F1B00084FB1 /* Sources */,
-				492233692D579F1B00084FB1 /* Frameworks */,
-				4922336A2D579F1B00084FB1 /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				4922336D2D579F1B00084FB1 /* Playground */,
-			);
-			name = Playground;
-			packageProductDependencies = (
-				49D7825A2D57CF1F00B2B0FB /* DataStructures */,
-			);
-			productName = Playground;
-			productReference = 4922336C2D579F1B00084FB1 /* Playground */;
-			productType = "com.apple.product-type.tool";
-		};
-/* End PBXNativeTarget section */
-
 /* Begin PBXProject section */
 		492232DD2D578D8F00084FB1 /* Project object */ = {
 			isa = PBXProject;
@@ -282,11 +214,6 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
-				TargetAttributes = {
-					4922336B2D579F1B00084FB1 = {
-						CreatedOnToolsVersion = 16.1;
-					};
-				};
 			};
 			buildConfigurationList = 492232E02D578D8F00084FB1 /* Build configuration list for PBXProject "AlgorithmsAndStructures" */;
 			developmentRegion = en;
@@ -311,20 +238,9 @@
 			);
 			projectRoot = "";
 			targets = (
-				4922336B2D579F1B00084FB1 /* Playground */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXSourcesBuildPhase section */
-		492233682D579F1B00084FB1 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
 		492232EA2D578D8F00084FB1 /* Debug */ = {
@@ -445,28 +361,6 @@
 			};
 			name = Release;
 		};
-		492233712D579F1B00084FB1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 598487U66T;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-			};
-			name = Debug;
-		};
-		492233722D579F1B00084FB1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 598487U66T;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -479,15 +373,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		492233702D579F1B00084FB1 /* Build configuration list for PBXNativeTarget "Playground" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				492233712D579F1B00084FB1 /* Debug */,
-				492233722D579F1B00084FB1 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
@@ -496,13 +381,6 @@
 			relativePath = DataStructures;
 		};
 /* End XCLocalSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		49D7825A2D57CF1F00B2B0FB /* DataStructures */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = DataStructures;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 492232DD2D578D8F00084FB1 /* Project object */;
 }
