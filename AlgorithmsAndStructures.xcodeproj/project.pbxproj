@@ -57,6 +57,7 @@
 		49D200862D735F690060ED5A /* Q3. Find Minimum Cost to Remove Array Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q3. Find Minimum Cost to Remove Array Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2570. Merge Two 2D Arrays by Summing Values.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D200F42D761C5F0060ED5A /* 2161. Partition Array According to Given Pivot.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2161. Partition Array According to Given Pivot.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49D201522D771CBE0060ED5A /* 1780. Check if Number is a Sum of Powers of Three.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1780. Check if Number is a Sum of Powers of Three.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1980. Find Unique Binary String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -201,6 +202,7 @@
 				49D200862D735F690060ED5A /* Q3. Find Minimum Cost to Remove Array Elements.playground */,
 				49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */,
 				49D200F42D761C5F0060ED5A /* 2161. Partition Array According to Given Pivot.playground */,
+				49D201522D771CBE0060ED5A /* 1780. Check if Number is a Sum of Powers of Three.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
