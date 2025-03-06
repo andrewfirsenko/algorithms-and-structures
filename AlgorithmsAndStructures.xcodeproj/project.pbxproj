@@ -16,6 +16,7 @@
 		491382D42D71A73000D9F82B /* Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491965852D78378A00197DCD /* 2579. Count Total Number of Colored Cells.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2579. Count Total Number of Colored Cells.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491965AE2D784F6700197DCD /* Flood Fill.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Flood Fill.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2965. Find Missing and Repeated Values.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -209,6 +210,7 @@
 				49D2017A2D7737110060ED5A /* Decode String.playground */,
 				491965852D78378A00197DCD /* 2579. Count Total Number of Colored Cells.playground */,
 				491965AE2D784F6700197DCD /* Flood Fill.playground */,
+				491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
