@@ -18,6 +18,8 @@
 		491965AE2D784F6700197DCD /* Flood Fill.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Flood Fill.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2965. Find Missing and Repeated Values.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2523. Closest Prime Numbers in Range.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		491966262D7B84E000197DCD /* 01 Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01 Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2379. Minimum Recolors to Get K Consecutive Black Blocks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -213,6 +215,8 @@
 				491965AE2D784F6700197DCD /* Flood Fill.playground */,
 				491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */,
 				491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */,
+				491966262D7B84E000197DCD /* 01 Matrix.playground */,
+				4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
