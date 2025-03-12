@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		490A26EA2D685F0200A503FA /* Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2529. Maximum Count of Positive Integer and Negative Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -21,6 +22,7 @@
 		491966262D7B84E000197DCD /* 01 Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01 Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2379. Minimum Recolors to Get K Consecutive Black Blocks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3208. Alternating Groups II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4919669E2D7EDB0600197DCD /* 3306. Count of Substrings Containing Every Vowel and K Consonants II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3306. Count of Substrings Containing Every Vowel and K Consonants II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -219,6 +221,8 @@
 				491966262D7B84E000197DCD /* 01 Matrix.playground */,
 				4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */,
 				491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */,
+				4919669E2D7EDB0600197DCD /* 3306. Count of Substrings Containing Every Vowel and K Consonants II.playground */,
+				4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
