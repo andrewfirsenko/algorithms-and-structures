@@ -10,6 +10,7 @@
 		490A26EA2D685F0200A503FA /* Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2529. Maximum Count of Positive Integer and Negative Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3356. Zero Array Transformation II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2594. Minimum Time to Repair Cars.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -225,6 +226,7 @@
 				4919669E2D7EDB0600197DCD /* 3306. Count of Substrings Containing Every Vowel and K Consonants II.playground */,
 				4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */,
 				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
+				4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
