@@ -12,6 +12,8 @@
 		4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3356. Zero Array Transformation II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2594. Minimum Time to Repair Cars.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4910FA942D881C5800AA50D7 /* 2206. Divide Array Into Equal Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2206. Divide Array Into Equal Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2401. Longest Nice Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4910FB0B2D8EEF9600AA50D7 /* 1765. Map of Highest Peak.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1765. Map of Highest Peak.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -229,6 +231,8 @@
 				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
 				4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */,
 				4910FA942D881C5800AA50D7 /* 2206. Divide Array Into Equal Pairs.playground */,
+				4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */,
+				4910FB0B2D8EEF9600AA50D7 /* 1765. Map of Highest Peak.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
