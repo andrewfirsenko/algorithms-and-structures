@@ -40,6 +40,7 @@
 		492233322D578DDC00084FB1 /* merge_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_sort.cpp; sourceTree = "<group>"; };
 		492233342D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		492233352D578DDC00084FB1 /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3169. Count Days Without Meetings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Daily Temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3174. Clear Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1910. Remove All Occurrences of a Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -233,6 +234,7 @@
 				4910FA942D881C5800AA50D7 /* 2206. Divide Array Into Equal Pairs.playground */,
 				4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */,
 				4910FB0B2D8EEF9600AA50D7 /* 1765. Map of Highest Peak.playground */,
+				49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -258,6 +260,7 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				49D782592D57CF1F00B2B0FB /* XCLocalSwiftPackageReference "DataStructures" */,
+				4910FB0C2D8EF6C400AA50D7 /* XCRemoteSwiftPackageReference "swift-collections" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 492232E62D578D8F00084FB1 /* Products */;
@@ -413,6 +416,17 @@
 			relativePath = DataStructures;
 		};
 /* End XCLocalSwiftPackageReference section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		4910FB0C2D8EF6C400AA50D7 /* XCRemoteSwiftPackageReference "swift-collections" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-collections.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.1.4;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 492232DD2D578D8F00084FB1 /* Project object */;
 }
