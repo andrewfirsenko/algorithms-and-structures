@@ -66,6 +66,7 @@
 		49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3151. Special Array I.playground"; sourceTree = "<group>"; };
 		49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; };
 		49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100552. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; };
+		49C1D5032DB3850A0065F846 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2460. Apply Operations to an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D200842D7351C10060ED5A /* Q1. Transform Array by Parity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Transform Array by Parity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D200852D7352B80060ED5A /* Q2. Find the Number of Copy Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Find the Number of Copy Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -235,6 +236,7 @@
 				4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */,
 				4910FB0B2D8EEF9600AA50D7 /* 1765. Map of Highest Peak.playground */,
 				49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */,
+				49C1D5032DB3850A0065F846 /* 9. Palindrome Number.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
