@@ -46,6 +46,7 @@
 		495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1910. Remove All Occurrences of a Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0D342D5CA24100BB9C8E /* 2342. Max Sum of a Pair With Equal Sum of Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2342. Max Sum of a Pair With Equal Sum of Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3066. Minimum Operations to Exceed Threshold Value II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49670EC62DBCB84200BEF440 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
@@ -243,6 +244,7 @@
 				49C1D52B2DB56D510065F846 /* 781. Rabbits in Forest.playground */,
 				49D16BCE2DB6E04B000CF459 /* 1. Two Sum.playground */,
 				496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */,
+				49670EC62DBCB84200BEF440 /* 13. Roman to Integer.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
