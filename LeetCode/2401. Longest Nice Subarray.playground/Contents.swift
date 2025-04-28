@@ -4,65 +4,28 @@ class Solution {
     func longestNiceSubarray(_ nums: [Int]) -> Int {
         guard !nums.isEmpty else { return 0 }
         
-        var dict: [Int: Int] = [:] // Index : Count `1`
         var maxLength: Int = 0
+        var length: Int = 0
+        var bits: Int = 0
         
         var l: Int = 0
         var r: Int = 0
-        var currentLength: Int = 0
         while r < nums.count {
-            add(num: nums[r], dict: &dict)
+            maxLength = max(length, maxLength)
             
-            while !isDictValid(dict: dict) {
-                maxLength = max(currentLength, maxLength)
-                remove(num: nums[l], dict: &dict)
-                currentLength -= 1
+            while bits & nums[r] != 0 {
+                bits = bits ^ nums[l]
+                length -= 1
                 l += 1
             }
             
-            currentLength += 1
+            bits = bits | nums[r]
+            length += 1
             r += 1
         }
-        maxLength = max(currentLength, maxLength)
+        maxLength = max(length, maxLength)
         
         return maxLength
-    }
-    
-    private func add(num: Int, dict: inout [Int: Int]) {
-        var num: Int = num
-        var index: Int = 0
-        while num > 0 {
-            if num % 2 == 1 {
-                dict[index, default: 0] += 1
-            }
-            num /= 2
-            index += 1
-        }
-    }
-    
-    private func remove(num: Int, dict: inout [Int: Int]) {
-        var num: Int = num
-        var index: Int = 0
-        while num > 0 {
-            if num % 2 == 1 {
-                if let value = dict[index], value > 1 {
-                    dict[index] = value - 1
-                } else {
-                    dict[index] = nil
-                }
-            }
-            num /= 2
-            index += 1
-        }
-    }
-    
-    private func isDictValid(dict: [Int: Int]) -> Bool {
-        for value in dict.values {
-            if value > 1 {
-                return false
-            }
-        }
-        return true
     }
 }
 
