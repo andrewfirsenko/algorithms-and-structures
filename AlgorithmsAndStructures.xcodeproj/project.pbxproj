@@ -49,6 +49,7 @@
 		49670EC62DBCB84200BEF440 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49670EEE2DBD1CA000BEF440 /* 841. Keys and Rooms.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "841. Keys and Rooms.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49670F162DBF6AC600BEF440 /* 485. Max Consecutive Ones.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "485. Max Consecutive Ones.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49670F172DBF6B0400BEF440 /* 1295. Find Numbers with Even Number of Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1295. Find Numbers with Even Number of Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
@@ -249,6 +250,7 @@
 				49670EC62DBCB84200BEF440 /* 13. Roman to Integer.playground */,
 				49670EEE2DBD1CA000BEF440 /* 841. Keys and Rooms.playground */,
 				49670F162DBF6AC600BEF440 /* 485. Max Consecutive Ones.playground */,
+				49670F172DBF6B0400BEF440 /* 1295. Find Numbers with Even Number of Digits.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
