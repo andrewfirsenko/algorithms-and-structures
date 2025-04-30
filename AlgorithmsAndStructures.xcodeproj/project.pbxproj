@@ -52,6 +52,7 @@
 		49670F172DBF6B0400BEF440 /* 1295. Find Numbers with Even Number of Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1295. Find Numbers with Even Number of Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49670F182DBF6B3B00BEF440 /* 977. Squares of a Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "977. Squares of a Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49670F192DC0989400BEF440 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49670F412DC1FB6B00BEF440 /* 3392. Count Subarrays of Length Three With a Condition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3392. Count Subarrays of Length Three With a Condition.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
@@ -255,6 +256,7 @@
 				49670F172DBF6B0400BEF440 /* 1295. Find Numbers with Even Number of Digits.playground */,
 				49670F182DBF6B3B00BEF440 /* 977. Squares of a Sorted Array.playground */,
 				49670F192DC0989400BEF440 /* 14. Longest Common Prefix.playground */,
+				49670F412DC1FB6B00BEF440 /* 3392. Count Subarrays of Length Three With a Condition.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
