@@ -91,6 +91,9 @@
 		49D2017A2D7737110060ED5A /* Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1980. Find Unique Binary String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49FC1D6F2DCF9B3E001C710F /* Q1. Find Most Frequent Vowel and Consonant.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Find Most Frequent Vowel and Consonant.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49FC1D702DCF9C4B001C710F /* Q2. Minimum Operations to Convert All Elements to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Minimum Operations to Convert All Elements to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49FC1D712DD09E88001C710F /* 1550. Three Consecutive Odds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1550. Three Consecutive Odds.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -265,6 +268,9 @@
 				49670F6A2DC2700300BEF440 /* Merge Sorted Array.playground */,
 				49670F922DC92DE200BEF440 /* 1128. Number of Equivalent Domino Pairs.playground */,
 				49670FBA2DCBCE7A00BEF440 /* 3341. Find Minimum Time to Reach Last Room I.playground */,
+				49FC1D6F2DCF9B3E001C710F /* Q1. Find Most Frequent Vowel and Consonant.playground */,
+				49FC1D702DCF9C4B001C710F /* Q2. Minimum Operations to Convert All Elements to Zero.playground */,
+				49FC1D712DD09E88001C710F /* 1550. Three Consecutive Odds.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
