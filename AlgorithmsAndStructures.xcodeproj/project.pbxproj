@@ -14,6 +14,7 @@
 		4910FA942D881C5800AA50D7 /* 2206. Divide Array Into Equal Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2206. Divide Array Into Equal Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2401. Longest Nice Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4910FB0B2D8EEF9600AA50D7 /* 1765. Map of Highest Peak.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1765. Map of Highest Peak.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4911BA872DE4C6D0000D10FE /* 2942. Find Words Containing Character.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2942. Find Words Containing Character.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -271,6 +272,7 @@
 				49FC1D6F2DCF9B3E001C710F /* Q1. Find Most Frequent Vowel and Consonant.playground */,
 				49FC1D702DCF9C4B001C710F /* Q2. Minimum Operations to Convert All Elements to Zero.playground */,
 				49FC1D712DD09E88001C710F /* 1550. Three Consecutive Odds.playground */,
+				4911BA872DE4C6D0000D10FE /* 2942. Find Words Containing Character.playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -296,7 +298,6 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				49D782592D57CF1F00B2B0FB /* XCLocalSwiftPackageReference "DataStructures" */,
-				4910FB0C2D8EF6C400AA50D7 /* XCRemoteSwiftPackageReference "swift-collections" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 492232E62D578D8F00084FB1 /* Products */;
@@ -452,17 +453,6 @@
 			relativePath = DataStructures;
 		};
 /* End XCLocalSwiftPackageReference section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		4910FB0C2D8EF6C400AA50D7 /* XCRemoteSwiftPackageReference "swift-collections" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/apple/swift-collections.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.1.4;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 492232DD2D578D8F00084FB1 /* Project object */;
 }
