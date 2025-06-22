@@ -66,6 +66,7 @@
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
+		499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2138. Divide a String Into Groups of Size k.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		499FFD8D2D63B3EA00569E33 /* Number of Islands (BFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (BFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		499FFDCD2D646C7500569E33 /* Open the Lock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Open the Lock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		499FFE0D2D65A28400569E33 /* 1415. The k-th Lexicographical String of All Happy Strings of Length n.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1415. The k-th Lexicographical String of All Happy Strings of Length n.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -203,9 +204,18 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		499953BD2E07CB49006A723A /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */,
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
 		49AB521F2D58969D0068EE55 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				499953BD2E07CB49006A723A /* Easy */,
 				49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */,
 				49AB52112D58969D0068EE55 /* 1694. Reformat Phone Number.playground */,
 				49AB52122D58969D0068EE55 /* 1726. Tuple with Same Product.playground */,
