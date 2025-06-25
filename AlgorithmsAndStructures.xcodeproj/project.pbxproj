@@ -64,6 +64,7 @@
 		49670F922DC92DE200BEF440 /* 1128. Number of Equivalent Domino Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1128. Number of Equivalent Domino Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49670FBA2DCBCE7A00BEF440 /* 3341. Find Minimum Time to Reach Last Room I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3341. Find Minimum Time to Reach Last Room I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "303. Range Sum Query - Immutable.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
 		499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2138. Divide a String Into Groups of Size k.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -208,6 +209,7 @@
 			isa = PBXGroup;
 			children = (
 				499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */,
+				4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
