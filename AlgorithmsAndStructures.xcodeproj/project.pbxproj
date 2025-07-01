@@ -88,6 +88,7 @@
 		49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100552. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; };
 		49C1D5032DB3850A0065F846 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49C1D52B2DB56D510065F846 /* 781. Rabbits in Forest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "781. Rabbits in Forest.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49C67C9C2E13F215005AC1D9 /* 3330. Find the Original Typed String I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3330. Find the Original Typed String I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D16BCE2DB6E04B000CF459 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2460. Apply Operations to an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49D200842D7351C10060ED5A /* Q1. Transform Array by Parity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Transform Array by Parity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -210,6 +211,7 @@
 			children = (
 				499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */,
 				4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */,
+				49C67C9C2E13F215005AC1D9 /* 3330. Find the Original Typed String I.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
