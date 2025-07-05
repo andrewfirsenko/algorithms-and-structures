@@ -31,7 +31,6 @@
 		491966262D7B84E000197DCD /* 01 Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01 Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2379. Minimum Recolors to Get K Consecutive Black Blocks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3208. Alternating Groups II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4919669E2D7EDB0600197DCD /* 3306. Count of Substrings Containing Every Vowel and K Consonants II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3306. Count of Substrings Containing Every Vowel and K Consonants II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -102,6 +101,8 @@
 		49D2017A2D7737110060ED5A /* Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49E3D36A2DEE2E3400B9DCC9 /* 2900. Longest Unequal Adjacent Groups Subsequence I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2900. Longest Unequal Adjacent Groups Subsequence I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49E3D36B2DEE357F00B9DCC9 /* 2176. Count Equal and Divisible Pairs in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2176. Count Equal and Divisible Pairs in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49F285D92E196E99005B3A1C /* Q1. Hexadecimal and Hexatrigesimal Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Hexadecimal and Hexatrigesimal Conversion.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49F285DA2E197413005B3A1C /* Q2. Minimum Cost Path with Alternating Directions II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Minimum Cost Path with Alternating Directions II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1980. Find Unique Binary String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49FC1D6F2DCF9B3E001C710F /* Q1. Find Most Frequent Vowel and Consonant.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Find Most Frequent Vowel and Consonant.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -211,11 +212,20 @@
 		499953BD2E07CB49006A723A /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				49AB521B2D58969D0068EE55 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */,
+				49AB52142D58969D0068EE55 /* 1790. Check if One String Swap Can Make Strings Equal.playground */,
 				499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */,
 				4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */,
 				49C67C9C2E13F215005AC1D9 /* 3330. Find the Original Typed String I.playground */,
 				49C67CC42E1506F8005AC1D9 /* 724. Find Pivot Index.playground */,
 				494D185D2E19127700B8EF6D /* 1394. Find Lucky Integer in an Array.playground */,
+				49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */,
+				49AB52112D58969D0068EE55 /* 1694. Reformat Phone Number.playground */,
+				49AB52132D58969D0068EE55 /* 1752. Check if Array Is Sorted and Rotated.playground */,
+				49AB52152D58969D0068EE55 /* 1800. Maximum Ascending Subarray Sum.playground */,
+				49AB52162D58969D0068EE55 /* 1920. Build Array from Permutation.playground */,
+				49AB52172D58969D0068EE55 /* 1929. Concatenation of Array.playground */,
+				49AB521A2D58969D0068EE55 /* 2769. Find the Maximum Achievable Number.cpp */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -223,19 +233,9 @@
 		49AB521F2D58969D0068EE55 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				49F285D62E196D32005B3A1C /* BiweeklyContest */,
 				499953BD2E07CB49006A723A /* Easy */,
-				49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */,
-				49AB52112D58969D0068EE55 /* 1694. Reformat Phone Number.playground */,
-				49AB52122D58969D0068EE55 /* 1726. Tuple with Same Product.playground */,
-				49AB52132D58969D0068EE55 /* 1752. Check if Array Is Sorted and Rotated.playground */,
-				49AB52142D58969D0068EE55 /* 1790. Check if One String Swap Can Make Strings Equal.playground */,
-				49AB52152D58969D0068EE55 /* 1800. Maximum Ascending Subarray Sum.playground */,
-				49AB52162D58969D0068EE55 /* 1920. Build Array from Permutation.playground */,
-				49AB52172D58969D0068EE55 /* 1929. Concatenation of Array.playground */,
-				49AB52182D58969D0068EE55 /* 2349. Design a Number Container System.playground */,
-				49AB52192D58969D0068EE55 /* 2364. Count Number of Bad Pairs.playground */,
-				49AB521A2D58969D0068EE55 /* 2769. Find the Maximum Achievable Number.cpp */,
-				49AB521B2D58969D0068EE55 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */,
+				49F285D82E196DC8005B3A1C /* Medium */,
 				49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */,
 				49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */,
 				49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */,
@@ -271,7 +271,6 @@
 				491966262D7B84E000197DCD /* 01 Matrix.playground */,
 				4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */,
 				491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */,
-				4919669E2D7EDB0600197DCD /* 3306. Count of Substrings Containing Every Vowel and K Consonants II.playground */,
 				4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */,
 				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
 				4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */,
@@ -307,6 +306,33 @@
 				492AC25E2E05DF5D00FF0181 /* 3423. Maximum Difference Between Adjacent Elements in a Circular Array.playground */,
 			);
 			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		49F285D62E196D32005B3A1C /* BiweeklyContest */ = {
+			isa = PBXGroup;
+			children = (
+				49F285D72E196D55005B3A1C /* 160 */,
+			);
+			path = BiweeklyContest;
+			sourceTree = "<group>";
+		};
+		49F285D72E196D55005B3A1C /* 160 */ = {
+			isa = PBXGroup;
+			children = (
+				49F285D92E196E99005B3A1C /* Q1. Hexadecimal and Hexatrigesimal Conversion.playground */,
+				49F285DA2E197413005B3A1C /* Q2. Minimum Cost Path with Alternating Directions II.playground */,
+			);
+			path = 160;
+			sourceTree = "<group>";
+		};
+		49F285D82E196DC8005B3A1C /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				49AB52122D58969D0068EE55 /* 1726. Tuple with Same Product.playground */,
+				49AB52182D58969D0068EE55 /* 2349. Design a Number Container System.playground */,
+				49AB52192D58969D0068EE55 /* 2364. Count Number of Bad Pairs.playground */,
+			);
+			path = Medium;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
