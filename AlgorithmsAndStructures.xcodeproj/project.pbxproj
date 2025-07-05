@@ -48,6 +48,7 @@
 		49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3169. Count Days Without Meetings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Daily Temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49460D5D2DF7F96A00C304A2 /* 3442. Maximum Difference Between Even and Odd Frequency I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3442. Maximum Difference Between Even and Odd Frequency I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494D185D2E19127700B8EF6D /* 1394. Find Lucky Integer in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1394. Find Lucky Integer in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3174. Clear Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1910. Remove All Occurrences of a Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0D342D5CA24100BB9C8E /* 2342. Max Sum of a Pair With Equal Sum of Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2342. Max Sum of a Pair With Equal Sum of Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -214,6 +215,7 @@
 				4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */,
 				49C67C9C2E13F215005AC1D9 /* 3330. Find the Original Typed String I.playground */,
 				49C67CC42E1506F8005AC1D9 /* 724. Find Pivot Index.playground */,
+				494D185D2E19127700B8EF6D /* 1394. Find Lucky Integer in an Array.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
