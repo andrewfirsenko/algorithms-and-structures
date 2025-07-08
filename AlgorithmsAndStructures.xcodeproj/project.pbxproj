@@ -18,6 +18,7 @@
 		4911BA882DE4C75B000D10FE /* 2094. Finding 3-Digit Even Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2094. Finding 3-Digit Even Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4911BA892DE4C79B000D10FE /* 3024. Type of Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3024. Type of Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4911BAB12DE62D51000D10FE /* 2894. Divisible and Non-divisible Sums Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2894. Divisible and Non-divisible Sums Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		491274902E1D2A3000009594 /* 209. Minimum Size Subarray Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "209. Minimum Size Subarray Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -331,6 +332,7 @@
 				49AB52122D58969D0068EE55 /* 1726. Tuple with Same Product.playground */,
 				49AB52182D58969D0068EE55 /* 2349. Design a Number Container System.playground */,
 				49AB52192D58969D0068EE55 /* 2364. Count Number of Bad Pairs.playground */,
+				491274902E1D2A3000009594 /* 209. Minimum Size Subarray Sum.playground */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
