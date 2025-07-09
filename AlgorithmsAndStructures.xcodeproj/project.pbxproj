@@ -110,6 +110,7 @@
 		49FC1D6F2DCF9B3E001C710F /* Q1. Find Most Frequent Vowel and Consonant.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Find Most Frequent Vowel and Consonant.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49FC1D702DCF9C4B001C710F /* Q2. Minimum Operations to Convert All Elements to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Minimum Operations to Convert All Elements to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49FC1D712DD09E88001C710F /* 1550. Three Consecutive Odds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1550. Three Consecutive Odds.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49FEE33D2E1E359B00111E0D /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -229,6 +230,7 @@
 				49AB52172D58969D0068EE55 /* 1929. Concatenation of Array.playground */,
 				49AB521A2D58969D0068EE55 /* 2769. Find the Maximum Achievable Number.cpp */,
 				49B058BC2E1D9B04009EC69B /* 594. Longest Harmonious Subsequence.playground */,
+				49FEE33D2E1E359B00111E0D /* 35. Search Insert Position.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
