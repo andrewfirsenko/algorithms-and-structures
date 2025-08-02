@@ -85,9 +85,9 @@
 		49AB52192D58969D0068EE55 /* 2364. Count Number of Bad Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2364. Count Number of Bad Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49AB521A2D58969D0068EE55 /* 2769. Find the Maximum Achievable Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2769. Find the Maximum Achievable Number.cpp"; sourceTree = "<group>"; };
 		49AB521B2D58969D0068EE55 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3151. Special Array I.playground"; sourceTree = "<group>"; };
-		49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; };
-		49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100552. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; };
+		49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3151. Special Array I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49AB521E2D58969D0068EE55 /* 3438. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3438. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49B058BC2E1D9B04009EC69B /* 594. Longest Harmonious Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "594. Longest Harmonious Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49B6A3952E3E1B94008D60C9 /* 2210. Count Hills and Valleys in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2210. Count Hills and Valleys in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49C1D5032DB3850A0065F846 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -217,6 +217,7 @@
 		499953BD2E07CB49006A723A /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */,
 				49AB521B2D58969D0068EE55 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */,
 				49AB52142D58969D0068EE55 /* 1790. Check if One String Swap Can Make Strings Equal.playground */,
 				499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */,
@@ -234,6 +235,8 @@
 				49B058BC2E1D9B04009EC69B /* 594. Longest Harmonious Subsequence.playground */,
 				49FEE33D2E1E359B00111E0D /* 35. Search Insert Position.playground */,
 				49B6A3952E3E1B94008D60C9 /* 2210. Count Hills and Valleys in an Array.playground */,
+				49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */,
+				49AB521E2D58969D0068EE55 /* 3438. Find Valid Pair of Adjacent Digits in String.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -244,11 +247,7 @@
 				49F285D62E196D32005B3A1C /* BiweeklyContest */,
 				499953BD2E07CB49006A723A /* Easy */,
 				49F285D82E196DC8005B3A1C /* Medium */,
-				49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */,
-				49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */,
-				49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */,
-				49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */,
-				495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */,
+				49B6A3962E3E1CB3008D60C9 /* Hard */,
 				495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */,
 				495D0D342D5CA24100BB9C8E /* 2342. Max Sum of a Pair With Equal Sum of Digits.playground */,
 				495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */,
@@ -316,6 +315,14 @@
 			path = LeetCode;
 			sourceTree = "<group>";
 		};
+		49B6A3962E3E1CB3008D60C9 /* Hard */ = {
+			isa = PBXGroup;
+			children = (
+				49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */,
+			);
+			path = Hard;
+			sourceTree = "<group>";
+		};
 		49F285D62E196D32005B3A1C /* BiweeklyContest */ = {
 			isa = PBXGroup;
 			children = (
@@ -341,6 +348,7 @@
 				49AB52192D58969D0068EE55 /* 2364. Count Number of Bad Pairs.playground */,
 				491274902E1D2A3000009594 /* 209. Minimum Size Subarray Sum.playground */,
 				498FB4662E1FAA8900F59A01 /* 238. Product of Array Except Self.playground */,
+				49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
