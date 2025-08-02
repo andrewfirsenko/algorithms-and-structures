@@ -89,6 +89,7 @@
 		49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; };
 		49AB521E2D58969D0068EE55 /* 100552. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100552. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; };
 		49B058BC2E1D9B04009EC69B /* 594. Longest Harmonious Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "594. Longest Harmonious Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49B6A3952E3E1B94008D60C9 /* 2210. Count Hills and Valleys in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2210. Count Hills and Valleys in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49C1D5032DB3850A0065F846 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49C1D52B2DB56D510065F846 /* 781. Rabbits in Forest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "781. Rabbits in Forest.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49C67C9C2E13F215005AC1D9 /* 3330. Find the Original Typed String I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3330. Find the Original Typed String I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -232,6 +233,7 @@
 				49AB521A2D58969D0068EE55 /* 2769. Find the Maximum Achievable Number.cpp */,
 				49B058BC2E1D9B04009EC69B /* 594. Longest Harmonious Subsequence.playground */,
 				49FEE33D2E1E359B00111E0D /* 35. Search Insert Position.playground */,
+				49B6A3952E3E1B94008D60C9 /* 2210. Count Hills and Valleys in an Array.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
