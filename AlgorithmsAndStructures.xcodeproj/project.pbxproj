@@ -48,6 +48,7 @@
 		49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3169. Count Days Without Meetings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Daily Temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49460D5D2DF7F96A00C304A2 /* 3442. Maximum Difference Between Even and Odd Frequency I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3442. Maximum Difference Between Even and Odd Frequency I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		494C642D2E7FE135007068A3 /* 1935. Maximum Number of Words You Can Type.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1935. Maximum Number of Words You Can Type.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		494D185D2E19127700B8EF6D /* 1394. Find Lucky Integer in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1394. Find Lucky Integer in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3174. Clear Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1910. Remove All Occurrences of a Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -241,6 +242,7 @@
 				49B6A3C52E41DDA9008D60C9 /* 3477. Fruits Into Baskets II.playground */,
 				49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */,
 				49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */,
+				494C642D2E7FE135007068A3 /* 1935. Maximum Number of Words You Can Type.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
