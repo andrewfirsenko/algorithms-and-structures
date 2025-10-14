@@ -66,6 +66,7 @@
 		49670F922DC92DE200BEF440 /* 1128. Number of Equivalent Domino Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1128. Number of Equivalent Domino Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49670FBA2DCBCE7A00BEF440 /* 3341. Find Minimum Time to Reach Last Room I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3341. Find Minimum Time to Reach Last Room I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3349. Adjacent Increasing Subarrays Detection I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "303. Range Sum Query - Immutable.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		498FB4662E1FAA8900F59A01 /* 238. Product of Array Except Self.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "238. Product of Array Except Self.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -243,6 +244,7 @@
 				49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */,
 				49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */,
 				494C642D2E7FE135007068A3 /* 1935. Maximum Number of Words You Can Type.playground */,
+				496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -377,7 +379,7 @@
 			mainGroup = 492232DC2D578D8F00084FB1;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				49D782592D57CF1F00B2B0FB /* XCLocalSwiftPackageReference "DataStructures" */,
+				49232B6E2E62EB0D00F0BE97 /* XCLocalSwiftPackageReference "../DataStructures" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 492232E62D578D8F00084FB1 /* Products */;
@@ -528,9 +530,9 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		49D782592D57CF1F00B2B0FB /* XCLocalSwiftPackageReference "DataStructures" */ = {
+		49232B6E2E62EB0D00F0BE97 /* XCLocalSwiftPackageReference "../DataStructures" */ = {
 			isa = XCLocalSwiftPackageReference;
-			relativePath = DataStructures;
+			relativePath = ../DataStructures;
 		};
 /* End XCLocalSwiftPackageReference section */
 	};
