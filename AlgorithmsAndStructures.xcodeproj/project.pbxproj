@@ -246,6 +246,9 @@
 				49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */,
 				494C642D2E7FE135007068A3 /* 1935. Maximum Number of Words You Can Type.playground */,
 				496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */,
+				491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */,
+				4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */,
+				4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -271,15 +274,8 @@
 				49D200852D7352B80060ED5A /* Q2. Find the Number of Copy Arrays.playground */,
 				49D200862D735F690060ED5A /* Q3. Find Minimum Cost to Remove Array Elements.playground */,
 				49D2017A2D7737110060ED5A /* Decode String.playground */,
-				491965852D78378A00197DCD /* 2579. Count Total Number of Colored Cells.playground */,
 				491965AE2D784F6700197DCD /* Flood Fill.playground */,
-				491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */,
-				491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */,
 				491966262D7B84E000197DCD /* 01 Matrix.playground */,
-				4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */,
-				491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */,
-				4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */,
-				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
 				4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */,
 				4910FA942D881C5800AA50D7 /* 2206. Divide Array Into Equal Pairs.playground */,
 				4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */,
@@ -357,6 +353,10 @@
 				49D200F42D761C5F0060ED5A /* 2161. Partition Array According to Given Pivot.playground */,
 				49D201522D771CBE0060ED5A /* 1780. Check if Number is a Sum of Powers of Three.playground */,
 				496E309B2E9F8AB7002C16C6 /* 3350. Adjacent Increasing Subarrays Detection II.playground */,
+				491965852D78378A00197DCD /* 2579. Count Total Number of Colored Cells.playground */,
+				491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */,
+				491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */,
+				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
