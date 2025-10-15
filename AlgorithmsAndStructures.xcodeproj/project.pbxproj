@@ -67,6 +67,7 @@
 		49670FBA2DCBCE7A00BEF440 /* 3341. Find Minimum Time to Reach Last Room I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3341. Find Minimum Time to Reach Last Room I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3349. Adjacent Increasing Subarrays Detection I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		496E309B2E9F8AB7002C16C6 /* 3350. Adjacent Increasing Subarrays Detection II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3350. Adjacent Increasing Subarrays Detection II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "303. Range Sum Query - Immutable.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		498FB4662E1FAA8900F59A01 /* 238. Product of Array Except Self.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "238. Product of Array Except Self.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -355,6 +356,7 @@
 				495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */,
 				49D200F42D761C5F0060ED5A /* 2161. Partition Array According to Given Pivot.playground */,
 				49D201522D771CBE0060ED5A /* 1780. Check if Number is a Sum of Powers of Three.playground */,
+				496E309B2E9F8AB7002C16C6 /* 3350. Adjacent Increasing Subarrays Detection II.playground */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
