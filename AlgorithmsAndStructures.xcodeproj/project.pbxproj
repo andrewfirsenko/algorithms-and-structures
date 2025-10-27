@@ -68,6 +68,7 @@
 		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3349. Adjacent Increasing Subarrays Detection I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E309B2E9F8AB7002C16C6 /* 3350. Adjacent Increasing Subarrays Detection II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3350. Adjacent Increasing Subarrays Detection II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		496E30C32EAF5DB1002C16C6 /* 2125. Number of Laser Beams in a Bank.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2125. Number of Laser Beams in a Bank.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "303. Range Sum Query - Immutable.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		498FB4662E1FAA8900F59A01 /* 238. Product of Array Except Self.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "238. Product of Array Except Self.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -357,6 +358,7 @@
 				491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */,
 				491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */,
 				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
+				496E30C32EAF5DB1002C16C6 /* 2125. Number of Laser Beams in a Bank.playground */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
