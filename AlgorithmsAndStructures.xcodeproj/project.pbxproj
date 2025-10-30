@@ -69,6 +69,7 @@
 		496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3349. Adjacent Increasing Subarrays Detection I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E309B2E9F8AB7002C16C6 /* 3350. Adjacent Increasing Subarrays Detection II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3350. Adjacent Increasing Subarrays Detection II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		496E30C32EAF5DB1002C16C6 /* 2125. Number of Laser Beams in a Bank.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2125. Number of Laser Beams in a Bank.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		496E30EB2EB350F9002C16C6 /* 3354. Make Array Elements Equal to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3354. Make Array Elements Equal to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "303. Range Sum Query - Immutable.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		498FB4662E1FAA8900F59A01 /* 238. Product of Array Except Self.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "238. Product of Array Except Self.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -250,6 +251,7 @@
 				491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */,
 				4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */,
 				4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */,
+				496E30EB2EB350F9002C16C6 /* 3354. Make Array Elements Equal to Zero.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
