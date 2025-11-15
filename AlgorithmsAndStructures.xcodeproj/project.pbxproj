@@ -47,6 +47,7 @@
 		492AC25E2E05DF5D00FF0181 /* 3423. Maximum Difference Between Adjacent Elements in a Circular Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3423. Maximum Difference Between Adjacent Elements in a Circular Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3169. Count Days Without Meetings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Daily Temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4941E2122EC85AFC00341759 /* 2536. Increment Submatrices by One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2536. Increment Submatrices by One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		49460D5D2DF7F96A00C304A2 /* 3442. Maximum Difference Between Even and Odd Frequency I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3442. Maximum Difference Between Even and Odd Frequency I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		494C642D2E7FE135007068A3 /* 1935. Maximum Number of Words You Can Type.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1935. Maximum Number of Words You Can Type.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		494D185D2E19127700B8EF6D /* 1394. Find Lucky Integer in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1394. Find Lucky Integer in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -361,6 +362,7 @@
 				491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */,
 				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
 				496E30C32EAF5DB1002C16C6 /* 2125. Number of Laser Beams in a Bank.playground */,
+				4941E2122EC85AFC00341759 /* 2536. Increment Submatrices by One.playground */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
