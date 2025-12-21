@@ -1,6 +1,13 @@
+//
+//  1. Two Sum.swift
+//  AlgorithmsAndStructures
+//
+//  Created by Andrew on 21.12.2025.
+//
+
 import Foundation
 
-class Solution {
+final class TwoSumSolution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var dict: [Int: Set<Int>] = [:] // Num : Indexes
         nums.enumerated().forEach { index, num in
@@ -28,8 +35,3 @@ class Solution {
         return []
     }
 }
-
-let solution = Solution()
-solution.twoSum([2,7,11,15], 9) // [0,1]
-solution.twoSum([3,2,4], 6) // [1,2]
-solution.twoSum([3,3], 6) // [0,1]

@@ -6,32 +6,23 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		49EE58FB2EF7E7B40010EB8B /* LeetCode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49EE58F22EF7E7B40010EB8B /* LeetCode.framework */; };
+		49EE5A1E2EF7EC130010EB8B /* DataStructures in Frameworks */ = {isa = PBXBuildFile; productRef = 49EE5A1D2EF7EC130010EB8B /* DataStructures */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		49EE58FC2EF7E7B40010EB8B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 492232DD2D578D8F00084FB1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 49EE58F12EF7E7B40010EB8B;
+			remoteInfo = LeetCode;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
-		490A26EA2D685F0200A503FA /* Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2529. Maximum Count of Positive Integer and Negative Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3356. Zero Array Transformation II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2594. Minimum Time to Repair Cars.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4910FA942D881C5800AA50D7 /* 2206. Divide Array Into Equal Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2206. Divide Array Into Equal Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2401. Longest Nice Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4910FB0B2D8EEF9600AA50D7 /* 1765. Map of Highest Peak.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1765. Map of Highest Peak.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4911BA872DE4C6D0000D10FE /* 2942. Find Words Containing Character.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2942. Find Words Containing Character.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4911BA882DE4C75B000D10FE /* 2094. Finding 3-Digit Even Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2094. Finding 3-Digit Even Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4911BA892DE4C79B000D10FE /* 3024. Type of Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3024. Type of Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4911BAB12DE62D51000D10FE /* 2894. Divisible and Non-divisible Sums Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2894. Divisible and Non-divisible Sums Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491274902E1D2A3000009594 /* 209. Minimum Size Subarray Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "209. Minimum Size Subarray Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491381522D6C468300D9F82B /* Number of Islands (DFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (DFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		491381892D6C599600D9F82B /* MergeSortAndCountInv.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSortAndCountInv.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4913828A2D703CFF00D9F82B /* CloneGraph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CloneGraph.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4913829D2D703D2200D9F82B /* Target Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Target Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491382D42D71A73000D9F82B /* Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491965852D78378A00197DCD /* 2579. Count Total Number of Colored Cells.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2579. Count Total Number of Colored Cells.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491965AE2D784F6700197DCD /* Flood Fill.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Flood Fill.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2965. Find Missing and Repeated Values.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2523. Closest Prime Numbers in Range.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491966262D7B84E000197DCD /* 01 Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01 Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2379. Minimum Recolors to Get K Consecutive Black Blocks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3208. Alternating Groups II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		492232F12D578DDC00084FB1 /* 712.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = 712.hpp; sourceTree = "<group>"; };
 		492232F22D578DDC00084FB1 /* 712.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 712.cpp; sourceTree = "<group>"; };
 		492232F42D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -44,84 +35,9 @@
 		492233322D578DDC00084FB1 /* merge_sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = merge_sort.cpp; sourceTree = "<group>"; };
 		492233342D578DDC00084FB1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		492233352D578DDC00084FB1 /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		492AC25E2E05DF5D00FF0181 /* 3423. Maximum Difference Between Adjacent Elements in a Circular Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3423. Maximum Difference Between Adjacent Elements in a Circular Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3169. Count Days Without Meetings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Daily Temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4941E2122EC85AFC00341759 /* 2536. Increment Submatrices by One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2536. Increment Submatrices by One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4941E23A2ECB330200341759 /* 1437. Check If All 1's Are at Least Length K Places Away.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1437. Check If All 1's Are at Least Length K Places Away.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49460D5D2DF7F96A00C304A2 /* 3442. Maximum Difference Between Even and Odd Frequency I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3442. Maximum Difference Between Even and Odd Frequency I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		494C642D2E7FE135007068A3 /* 1935. Maximum Number of Words You Can Type.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1935. Maximum Number of Words You Can Type.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		494D185D2E19127700B8EF6D /* 1394. Find Lucky Integer in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1394. Find Lucky Integer in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3174. Clear Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1910. Remove All Occurrences of a Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		495D0D342D5CA24100BB9C8E /* 2342. Max Sum of a Pair With Equal Sum of Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2342. Max Sum of a Pair With Equal Sum of Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3066. Minimum Operations to Exceed Threshold Value II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670EC62DBCB84200BEF440 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670EEE2DBD1CA000BEF440 /* 841. Keys and Rooms.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "841. Keys and Rooms.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F162DBF6AC600BEF440 /* 485. Max Consecutive Ones.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "485. Max Consecutive Ones.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F172DBF6B0400BEF440 /* 1295. Find Numbers with Even Number of Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1295. Find Numbers with Even Number of Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F182DBF6B3B00BEF440 /* 977. Squares of a Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "977. Squares of a Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F192DC0989400BEF440 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F412DC1FB6B00BEF440 /* 3392. Count Subarrays of Length Three With a Condition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3392. Count Subarrays of Length Three With a Condition.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F692DC25DC900BEF440 /* 1089. Duplicate Zeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1089. Duplicate Zeros.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F6A2DC2700300BEF440 /* Merge Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Merge Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670F922DC92DE200BEF440 /* 1128. Number of Equivalent Domino Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1128. Number of Equivalent Domino Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49670FBA2DCBCE7A00BEF440 /* 3341. Find Minimum Time to Reach Last Room I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3341. Find Minimum Time to Reach Last Room I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1399. Count Largest Group.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3349. Adjacent Increasing Subarrays Detection I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		496E309B2E9F8AB7002C16C6 /* 3350. Adjacent Increasing Subarrays Detection II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3350. Adjacent Increasing Subarrays Detection II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		496E30C32EAF5DB1002C16C6 /* 2125. Number of Laser Beams in a Bank.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2125. Number of Laser Beams in a Bank.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		496E30EB2EB350F9002C16C6 /* 3354. Make Array Elements Equal to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3354. Make Array Elements Equal to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "303. Range Sum Query - Immutable.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		498FB4662E1FAA8900F59A01 /* 238. Product of Array Except Self.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "238. Product of Array Except Self.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = AlgorithmsAndStructures.xcodeproj; sourceTree = "<group>"; };
-		499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2138. Divide a String Into Groups of Size k.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		499FFD8D2D63B3EA00569E33 /* Number of Islands (BFS).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number of Islands (BFS).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		499FFDCD2D646C7500569E33 /* Open the Lock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Open the Lock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		499FFE0D2D65A28400569E33 /* 1415. The k-th Lexicographical String of All Happy Strings of Length n.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1415. The k-th Lexicographical String of All Happy Strings of Length n.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52112D58969D0068EE55 /* 1694. Reformat Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1694. Reformat Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52122D58969D0068EE55 /* 1726. Tuple with Same Product.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1726. Tuple with Same Product.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52132D58969D0068EE55 /* 1752. Check if Array Is Sorted and Rotated.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1752. Check if Array Is Sorted and Rotated.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52142D58969D0068EE55 /* 1790. Check if One String Swap Can Make Strings Equal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1790. Check if One String Swap Can Make Strings Equal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52152D58969D0068EE55 /* 1800. Maximum Ascending Subarray Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1800. Maximum Ascending Subarray Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52162D58969D0068EE55 /* 1920. Build Array from Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1920. Build Array from Permutation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52172D58969D0068EE55 /* 1929. Concatenation of Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1929. Concatenation of Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52182D58969D0068EE55 /* 2349. Design a Number Container System.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2349. Design a Number Container System.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB52192D58969D0068EE55 /* 2364. Count Number of Bad Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2364. Count Number of Bad Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB521A2D58969D0068EE55 /* 2769. Find the Maximum Achievable Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2769. Find the Maximum Achievable Number.cpp"; sourceTree = "<group>"; };
-		49AB521B2D58969D0068EE55 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3151. Special Array I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3160. Find the Number of Distinct Colors Among the Balls.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49AB521E2D58969D0068EE55 /* 3438. Find Valid Pair of Adjacent Digits in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3438. Find Valid Pair of Adjacent Digits in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49B058BC2E1D9B04009EC69B /* 594. Longest Harmonious Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "594. Longest Harmonious Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49B6A3952E3E1B94008D60C9 /* 2210. Count Hills and Valleys in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2210. Count Hills and Valleys in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49B6A3C52E41DDA9008D60C9 /* 3477. Fruits Into Baskets II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3477. Fruits Into Baskets II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49C1D5032DB3850A0065F846 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49C1D52B2DB56D510065F846 /* 781. Rabbits in Forest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "781. Rabbits in Forest.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49C67C9C2E13F215005AC1D9 /* 3330. Find the Original Typed String I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3330. Find the Original Typed String I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49C67CC42E1506F8005AC1D9 /* 724. Find Pivot Index.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "724. Find Pivot Index.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D16BCE2DB6E04B000CF459 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2460. Apply Operations to an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D200842D7351C10060ED5A /* Q1. Transform Array by Parity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Transform Array by Parity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D200852D7352B80060ED5A /* Q2. Find the Number of Copy Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Find the Number of Copy Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D200862D735F690060ED5A /* Q3. Find Minimum Cost to Remove Array Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q3. Find Minimum Cost to Remove Array Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2570. Merge Two 2D Arrays by Summing Values.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D200F42D761C5F0060ED5A /* 2161. Partition Array According to Given Pivot.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2161. Partition Array According to Given Pivot.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D201522D771CBE0060ED5A /* 1780. Check if Number is a Sum of Powers of Three.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1780. Check if Number is a Sum of Powers of Three.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49D2017A2D7737110060ED5A /* Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49E3D36A2DEE2E3400B9DCC9 /* 2900. Longest Unequal Adjacent Groups Subsequence I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2900. Longest Unequal Adjacent Groups Subsequence I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49E3D36B2DEE357F00B9DCC9 /* 2176. Count Equal and Divisible Pairs in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2176. Count Equal and Divisible Pairs in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49EE56E12EF6BD180010EB8B /* 944. Delete Columns to Make Sorted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "944. Delete Columns to Make Sorted.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49F285D92E196E99005B3A1C /* Q1. Hexadecimal and Hexatrigesimal Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Hexadecimal and Hexatrigesimal Conversion.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49F285DA2E197413005B3A1C /* Q2. Minimum Cost Path with Alternating Directions II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Minimum Cost Path with Alternating Directions II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1980. Find Unique Binary String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49F710472D67571800FFB0E7 /* Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49FC1D6F2DCF9B3E001C710F /* Q1. Find Most Frequent Vowel and Consonant.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1. Find Most Frequent Vowel and Consonant.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49FC1D702DCF9C4B001C710F /* Q2. Minimum Operations to Convert All Elements to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q2. Minimum Operations to Convert All Elements to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49FC1D712DD09E88001C710F /* 1550. Three Consecutive Odds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1550. Three Consecutive Odds.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		49FEE33D2E1E359B00111E0D /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		49EE58F22EF7E7B40010EB8B /* LeetCode.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LeetCode.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		49EE58FA2EF7E7B40010EB8B /* LeetCodeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCodeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -130,17 +46,48 @@
 			path = Playground;
 			sourceTree = "<group>";
 		};
+		49EE58F32EF7E7B40010EB8B /* LeetCode */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		49EE58FE2EF7E7B50010EB8B /* LeetCodeTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LeetCodeTests;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		49EE58EF2EF7E7B40010EB8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49EE5A1E2EF7EC130010EB8B /* DataStructures in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49EE58F72EF7E7B40010EB8B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49EE58FB2EF7E7B40010EB8B /* LeetCode.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		492232DC2D578D8F00084FB1 = {
 			isa = PBXGroup;
 			children = (
-				49AB521F2D58969D0068EE55 /* LeetCode */,
 				492232F52D578DDC00084FB1 /* Acmp */,
 				492233302D578DDC00084FB1 /* Search */,
 				492233362D578DDC00084FB1 /* Sort */,
 				4922336D2D579F1B00084FB1 /* Playground */,
+				49EE58F32EF7E7B40010EB8B /* LeetCode */,
+				49EE58FE2EF7E7B50010EB8B /* LeetCodeTests */,
+				49EE5A1C2EF7EC130010EB8B /* Frameworks */,
 				492232E62D578D8F00084FB1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -148,6 +95,8 @@
 		492232E62D578D8F00084FB1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				49EE58F22EF7E7B40010EB8B /* LeetCode.framework */,
+				49EE58FA2EF7E7B40010EB8B /* LeetCodeTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -223,163 +172,90 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		499953BD2E07CB49006A723A /* Easy */ = {
+		49EE5A1C2EF7EC130010EB8B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				495D0CC62D5A05DC00BB9C8E /* 3174. Clear Digits.playground */,
-				49AB521B2D58969D0068EE55 /* 3105. Longest Strictly Increasing or Strictly Decreasing Subarray.playground */,
-				49AB52142D58969D0068EE55 /* 1790. Check if One String Swap Can Make Strings Equal.playground */,
-				499953BE2E07CB56006A723A /* 2138. Divide a String Into Groups of Size k.playground */,
-				4979E6F42E0BC9C40019CC08 /* 303. Range Sum Query - Immutable.playground */,
-				49C67C9C2E13F215005AC1D9 /* 3330. Find the Original Typed String I.playground */,
-				49C67CC42E1506F8005AC1D9 /* 724. Find Pivot Index.playground */,
-				494D185D2E19127700B8EF6D /* 1394. Find Lucky Integer in an Array.playground */,
-				49AB52102D58969D0068EE55 /* 118. Pascal's Triangle.playground */,
-				49AB52112D58969D0068EE55 /* 1694. Reformat Phone Number.playground */,
-				49AB52132D58969D0068EE55 /* 1752. Check if Array Is Sorted and Rotated.playground */,
-				49AB52152D58969D0068EE55 /* 1800. Maximum Ascending Subarray Sum.playground */,
-				49AB52162D58969D0068EE55 /* 1920. Build Array from Permutation.playground */,
-				49AB52172D58969D0068EE55 /* 1929. Concatenation of Array.playground */,
-				49AB521A2D58969D0068EE55 /* 2769. Find the Maximum Achievable Number.cpp */,
-				49B058BC2E1D9B04009EC69B /* 594. Longest Harmonious Subsequence.playground */,
-				49FEE33D2E1E359B00111E0D /* 35. Search Insert Position.playground */,
-				49B6A3952E3E1B94008D60C9 /* 2210. Count Hills and Valleys in an Array.playground */,
-				49AB521C2D58969D0068EE55 /* 3151. Special Array I.playground */,
-				49AB521E2D58969D0068EE55 /* 3438. Find Valid Pair of Adjacent Digits in String.playground */,
-				49B6A3C52E41DDA9008D60C9 /* 3477. Fruits Into Baskets II.playground */,
-				49D2004D2D734AF30060ED5A /* 2460. Apply Operations to an Array.playground */,
-				49D200BD2D74D5070060ED5A /* 2570. Merge Two 2D Arrays by Summing Values.playground */,
-				494C642D2E7FE135007068A3 /* 1935. Maximum Number of Words You Can Type.playground */,
-				496E30732E9EE7D9002C16C6 /* 3349. Adjacent Increasing Subarrays Detection I.playground */,
-				491965D62D799E4B00197DCD /* 2965. Find Missing and Repeated Values.playground */,
-				4919664E2D7C22CB00197DCD /* 2379. Minimum Recolors to Get K Consecutive Black Blocks.playground */,
-				4910F9F52D8181F100AA50D7 /* 2529. Maximum Count of Positive Integer and Negative Integer.playground */,
-				496E30EB2EB350F9002C16C6 /* 3354. Make Array Elements Equal to Zero.playground */,
-				4941E23A2ECB330200341759 /* 1437. Check If All 1's Are at Least Length K Places Away.playground */,
-				49EE56E12EF6BD180010EB8B /* 944. Delete Columns to Make Sorted.playground */,
-				4910FA942D881C5800AA50D7 /* 2206. Divide Array Into Equal Pairs.playground */,
-				496E0B892DB90840006F15B4 /* 1399. Count Largest Group.playground */,
 			);
-			path = Easy;
-			sourceTree = "<group>";
-		};
-		49AB521F2D58969D0068EE55 /* LeetCode */ = {
-			isa = PBXGroup;
-			children = (
-				49F285D62E196D32005B3A1C /* BiweeklyContest */,
-				499953BD2E07CB49006A723A /* Easy */,
-				49F285D82E196DC8005B3A1C /* Medium */,
-				49B6A3962E3E1CB3008D60C9 /* Hard */,
-				499FFD8D2D63B3EA00569E33 /* Number of Islands (BFS).playground */,
-				499FFDCD2D646C7500569E33 /* Open the Lock.playground */,
-				49F710472D67571800FFB0E7 /* Perfect Squares.playground */,
-				490A26EA2D685F0200A503FA /* Valid Parentheses.playground */,
-				493EF6AF2D69A9B300BB4E5E /* Daily Temperatures.playground */,
-				491381512D6AF7C600D9F82B /* Evaluate Reverse Polish Notation.playground */,
-				491381522D6C468300D9F82B /* Number of Islands (DFS).playground */,
-				4913828A2D703CFF00D9F82B /* CloneGraph.playground */,
-				4913829D2D703D2200D9F82B /* Target Sum.playground */,
-				491382D42D71A73000D9F82B /* Binary Tree Inorder Traversal.playground */,
-				49D200842D7351C10060ED5A /* Q1. Transform Array by Parity.playground */,
-				49D200852D7352B80060ED5A /* Q2. Find the Number of Copy Arrays.playground */,
-				49D200862D735F690060ED5A /* Q3. Find Minimum Cost to Remove Array Elements.playground */,
-				49D2017A2D7737110060ED5A /* Decode String.playground */,
-				491965AE2D784F6700197DCD /* Flood Fill.playground */,
-				491966262D7B84E000197DCD /* 01 Matrix.playground */,
-				49C1D5032DB3850A0065F846 /* 9. Palindrome Number.playground */,
-				49C1D52B2DB56D510065F846 /* 781. Rabbits in Forest.playground */,
-				49D16BCE2DB6E04B000CF459 /* 1. Two Sum.playground */,
-				49670EC62DBCB84200BEF440 /* 13. Roman to Integer.playground */,
-				49670EEE2DBD1CA000BEF440 /* 841. Keys and Rooms.playground */,
-				49670F162DBF6AC600BEF440 /* 485. Max Consecutive Ones.playground */,
-				49670F172DBF6B0400BEF440 /* 1295. Find Numbers with Even Number of Digits.playground */,
-				49670F182DBF6B3B00BEF440 /* 977. Squares of a Sorted Array.playground */,
-				49670F192DC0989400BEF440 /* 14. Longest Common Prefix.playground */,
-				49670F412DC1FB6B00BEF440 /* 3392. Count Subarrays of Length Three With a Condition.playground */,
-				49670F692DC25DC900BEF440 /* 1089. Duplicate Zeros.playground */,
-				49670F6A2DC2700300BEF440 /* Merge Sorted Array.playground */,
-				49670F922DC92DE200BEF440 /* 1128. Number of Equivalent Domino Pairs.playground */,
-				49670FBA2DCBCE7A00BEF440 /* 3341. Find Minimum Time to Reach Last Room I.playground */,
-				49FC1D6F2DCF9B3E001C710F /* Q1. Find Most Frequent Vowel and Consonant.playground */,
-				49FC1D702DCF9C4B001C710F /* Q2. Minimum Operations to Convert All Elements to Zero.playground */,
-				49FC1D712DD09E88001C710F /* 1550. Three Consecutive Odds.playground */,
-				4911BA872DE4C6D0000D10FE /* 2942. Find Words Containing Character.playground */,
-				4911BA882DE4C75B000D10FE /* 2094. Finding 3-Digit Even Numbers.playground */,
-				4911BA892DE4C79B000D10FE /* 3024. Type of Triangle.playground */,
-				4911BAB12DE62D51000D10FE /* 2894. Divisible and Non-divisible Sums Difference.playground */,
-				49E3D36A2DEE2E3400B9DCC9 /* 2900. Longest Unequal Adjacent Groups Subsequence I.playground */,
-				49E3D36B2DEE357F00B9DCC9 /* 2176. Count Equal and Divisible Pairs in an Array.playground */,
-				49460D5D2DF7F96A00C304A2 /* 3442. Maximum Difference Between Even and Odd Frequency I.playground */,
-				492AC25E2E05DF5D00FF0181 /* 3423. Maximum Difference Between Adjacent Elements in a Circular Array.playground */,
-			);
-			path = LeetCode;
-			sourceTree = "<group>";
-		};
-		49B6A3962E3E1CB3008D60C9 /* Hard */ = {
-			isa = PBXGroup;
-			children = (
-				49833A942D58C5150051866D /* 84. Largest Rectangle in Histogram.playground */,
-			);
-			path = Hard;
-			sourceTree = "<group>";
-		};
-		49F285D62E196D32005B3A1C /* BiweeklyContest */ = {
-			isa = PBXGroup;
-			children = (
-				49F285D72E196D55005B3A1C /* 160 */,
-			);
-			path = BiweeklyContest;
-			sourceTree = "<group>";
-		};
-		49F285D72E196D55005B3A1C /* 160 */ = {
-			isa = PBXGroup;
-			children = (
-				49F285D92E196E99005B3A1C /* Q1. Hexadecimal and Hexatrigesimal Conversion.playground */,
-				49F285DA2E197413005B3A1C /* Q2. Minimum Cost Path with Alternating Directions II.playground */,
-			);
-			path = 160;
-			sourceTree = "<group>";
-		};
-		49F285D82E196DC8005B3A1C /* Medium */ = {
-			isa = PBXGroup;
-			children = (
-				49F710102D66FD5A00FFB0E7 /* 1980. Find Unique Binary String.playground */,
-				499FFE0D2D65A28400569E33 /* 1415. The k-th Lexicographical String of All Happy Strings of Length n.playground */,
-				495D0D742D5DE18100BB9C8E /* 3066. Minimum Operations to Exceed Threshold Value II.playground */,
-				495D0D342D5CA24100BB9C8E /* 2342. Max Sum of a Pair With Equal Sum of Digits.playground */,
-				49AB52122D58969D0068EE55 /* 1726. Tuple with Same Product.playground */,
-				49AB52182D58969D0068EE55 /* 2349. Design a Number Container System.playground */,
-				49AB52192D58969D0068EE55 /* 2364. Count Number of Bad Pairs.playground */,
-				491274902E1D2A3000009594 /* 209. Minimum Size Subarray Sum.playground */,
-				498FB4662E1FAA8900F59A01 /* 238. Product of Array Except Self.playground */,
-				49AB521D2D58969D0068EE55 /* 3160. Find the Number of Distinct Colors Among the Balls.playground */,
-				495D0CFD2D5B5EE200BB9C8E /* 1910. Remove All Occurrences of a Substring.playground */,
-				49D200F42D761C5F0060ED5A /* 2161. Partition Array According to Given Pivot.playground */,
-				49D201522D771CBE0060ED5A /* 1780. Check if Number is a Sum of Powers of Three.playground */,
-				496E309B2E9F8AB7002C16C6 /* 3350. Adjacent Increasing Subarrays Detection II.playground */,
-				491965852D78378A00197DCD /* 2579. Count Total Number of Colored Cells.playground */,
-				491966762D7D7A4100197DCD /* 3208. Alternating Groups II.playground */,
-				491965FE2D7AFCB500197DCD /* 2523. Closest Prime Numbers in Range.playground */,
-				4910FA1D2D82C2F600AA50D7 /* 3356. Zero Array Transformation II.playground */,
-				496E30C32EAF5DB1002C16C6 /* 2125. Number of Laser Beams in a Bank.playground */,
-				4941E2122EC85AFC00341759 /* 2536. Increment Submatrices by One.playground */,
-				4910FA452D873FC100AA50D7 /* 2594. Minimum Time to Repair Cars.playground */,
-				4910FABC2D8976C100AA50D7 /* 2401. Longest Nice Subarray.playground */,
-				4910FB0B2D8EEF9600AA50D7 /* 1765. Map of Highest Peak.playground */,
-				49360E1B2D918A51009C8F4D /* 3169. Count Days Without Meetings.playground */,
-			);
-			path = Medium;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		49EE58ED2EF7E7B40010EB8B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		49EE58F12EF7E7B40010EB8B /* LeetCode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49EE59012EF7E7B50010EB8B /* Build configuration list for PBXNativeTarget "LeetCode" */;
+			buildPhases = (
+				49EE58ED2EF7E7B40010EB8B /* Headers */,
+				49EE58EE2EF7E7B40010EB8B /* Sources */,
+				49EE58EF2EF7E7B40010EB8B /* Frameworks */,
+				49EE58F02EF7E7B40010EB8B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				49EE58F32EF7E7B40010EB8B /* LeetCode */,
+			);
+			name = LeetCode;
+			packageProductDependencies = (
+				49EE5A1D2EF7EC130010EB8B /* DataStructures */,
+			);
+			productName = LeetCode;
+			productReference = 49EE58F22EF7E7B40010EB8B /* LeetCode.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		49EE58F92EF7E7B40010EB8B /* LeetCodeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49EE59042EF7E7B50010EB8B /* Build configuration list for PBXNativeTarget "LeetCodeTests" */;
+			buildPhases = (
+				49EE58F62EF7E7B40010EB8B /* Sources */,
+				49EE58F72EF7E7B40010EB8B /* Frameworks */,
+				49EE58F82EF7E7B40010EB8B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				49EE58FD2EF7E7B40010EB8B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				49EE58FE2EF7E7B50010EB8B /* LeetCodeTests */,
+			);
+			name = LeetCodeTests;
+			packageProductDependencies = (
+			);
+			productName = LeetCodeTests;
+			productReference = 49EE58FA2EF7E7B40010EB8B /* LeetCodeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
 		492232DD2D578D8F00084FB1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1610;
+				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					49EE58F12EF7E7B40010EB8B = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					49EE58F92EF7E7B40010EB8B = {
+						CreatedOnToolsVersion = 16.4;
+					};
+				};
 			};
 			buildConfigurationList = 492232E02D578D8F00084FB1 /* Build configuration list for PBXProject "AlgorithmsAndStructures" */;
 			developmentRegion = en;
@@ -404,9 +280,53 @@
 			);
 			projectRoot = "";
 			targets = (
+				49EE58F12EF7E7B40010EB8B /* LeetCode */,
+				49EE58F92EF7E7B40010EB8B /* LeetCodeTests */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		49EE58F02EF7E7B40010EB8B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49EE58F82EF7E7B40010EB8B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		49EE58EE2EF7E7B40010EB8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49EE58F62EF7E7B40010EB8B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		49EE58FD2EF7E7B40010EB8B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 49EE58F12EF7E7B40010EB8B /* LeetCode */;
+			targetProxy = 49EE58FC2EF7E7B40010EB8B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		492232EA2D578D8F00084FB1 /* Debug */ = {
@@ -527,6 +447,110 @@
 			};
 			name = Release;
 		};
+		49EE59022EF7E7B50010EB8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 598487U66T;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
+				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
+				PRODUCT_BUNDLE_IDENTIFIER = andrewfirsenko.LeetCode;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_INSTALL_MODULE = YES;
+				SWIFT_INSTALL_OBJC_HEADER = NO;
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		49EE59032EF7E7B50010EB8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 598487U66T;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
+				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
+				PRODUCT_BUNDLE_IDENTIFIER = andrewfirsenko.LeetCode;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_INSTALL_MODULE = YES;
+				SWIFT_INSTALL_OBJC_HEADER = NO;
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		49EE59052EF7E7B50010EB8B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 598487U66T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = andrewfirsenko.LeetCodeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		49EE59062EF7E7B50010EB8B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 598487U66T;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = andrewfirsenko.LeetCodeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -539,6 +563,24 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		49EE59012EF7E7B50010EB8B /* Build configuration list for PBXNativeTarget "LeetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49EE59022EF7E7B50010EB8B /* Debug */,
+				49EE59032EF7E7B50010EB8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		49EE59042EF7E7B50010EB8B /* Build configuration list for PBXNativeTarget "LeetCodeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49EE59052EF7E7B50010EB8B /* Debug */,
+				49EE59062EF7E7B50010EB8B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
@@ -547,6 +589,14 @@
 			relativePath = ../DataStructures;
 		};
 /* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		49EE5A1D2EF7EC130010EB8B /* DataStructures */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 49232B6E2E62EB0D00F0BE97 /* XCLocalSwiftPackageReference "../DataStructures" */;
+			productName = DataStructures;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 492232DD2D578D8F00084FB1 /* Project object */;
 }
