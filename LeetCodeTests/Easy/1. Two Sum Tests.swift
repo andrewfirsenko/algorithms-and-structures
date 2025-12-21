@@ -8,8 +8,8 @@
 import Testing
 @testable import LeetCode
 
-struct TwoSumTests {
-    private let solution = TwoSumSolution()
+struct Solution1Tests {
+    private let solution = Solution1()
     
     @Test
     func test1() async throws {

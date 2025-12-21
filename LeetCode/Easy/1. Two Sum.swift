@@ -1,13 +1,13 @@
 //
 //  1. Two Sum.swift
-//  AlgorithmsAndStructures
+//  LeetCode
 //
 //  Created by Andrew on 21.12.2025.
 //
 
 import Foundation
 
-final class TwoSumSolution {
+final class Solution1 {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var dict: [Int: Set<Int>] = [:] // Num : Indexes
         nums.enumerated().forEach { index, num in
