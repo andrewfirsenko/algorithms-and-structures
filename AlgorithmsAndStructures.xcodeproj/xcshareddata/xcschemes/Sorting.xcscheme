@@ -6,6 +6,22 @@
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES"
       buildArchitectures = "Automatic">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "49EE5AC52EFFDDDA0010EB8B"
+               BuildableName = "Sorting.framework"
+               BlueprintName = "Sorting"
+               ReferencedContainer = "container:AlgorithmsAndStructures.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -19,16 +35,11 @@
             parallelizable = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "49EE58F92EF7E7B40010EB8B"
-               BuildableName = "LeetCodeTests.xctest"
-               BlueprintName = "LeetCodeTests"
+               BlueprintIdentifier = "49EE5ACD2EFFDDDB0010EB8B"
+               BuildableName = "SortingTests.xctest"
+               BlueprintName = "SortingTests"
                ReferencedContainer = "container:AlgorithmsAndStructures.xcodeproj">
             </BuildableReference>
-            <SkippedTests>
-               <Test
-                  Identifier = "Solution1Tests">
-               </Test>
-            </SkippedTests>
          </TestableReference>
       </Testables>
    </TestAction>
@@ -49,6 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "49EE5AC52EFFDDDA0010EB8B"
+            BuildableName = "Sorting.framework"
+            BlueprintName = "Sorting"
+            ReferencedContainer = "container:AlgorithmsAndStructures.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
