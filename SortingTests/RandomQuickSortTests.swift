@@ -1,5 +1,5 @@
 //
-//  MergeSortTests.swift
+//  RandomQuickSortTests.swift
 //  SortingTests
 //
 //  Created by Andrew on 27.12.2025.
@@ -8,9 +8,9 @@
 import Testing
 @testable import Sorting
 
-struct MergeSortTests {
+struct RandomQuickSortTests {
     // MARK: - Private Properties
-    let sut = MergeSort<Int>()
+    private let sut = RandomQuickSort<Int>()
     
     // MARK: - Tests
     @Test
