@@ -18,17 +18,17 @@ class Solution215 {
         guard l < r else { return }
         
         let pivot: Int = Int.random(in: l...r)
-        swap(lhs: l, rhs: pivot, array: &array)
+        array.swapAt(l, pivot)
         // [p][unsorted]
         
         var endMorePivot: Int = l
         for i in (l + 1)...r {
             if array[i] > array[l] {
                 endMorePivot += 1
-                swap(lhs: endMorePivot, rhs: i, array: &array)
+                array.swapAt(endMorePivot, i)
             }
         }
-        swap(lhs: l, rhs: endMorePivot, array: &array)
+        array.swapAt(l, endMorePivot)
         // [> p][p][<= p]
         
         if endMorePivot < select {
@@ -38,11 +38,5 @@ class Solution215 {
         } else {
             return
         }
-    }
-    
-    func swap(lhs: Int, rhs: Int, array: inout [Int]) {
-        let temp = array[lhs]
-        array[lhs] = array[rhs]
-        array[rhs] = temp
     }
 }

@@ -1,6 +1,6 @@
 import Foundation
 
-class Solution {
+class Solution1089 {
     func duplicateZeros(_ arr: inout [Int]) {
         var copy: [Int] = Array(repeating: 0, count: arr.count)
         var iArr: Int = 0
