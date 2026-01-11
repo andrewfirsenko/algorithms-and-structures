@@ -1,0 +1,53 @@
+//
+//  67. Add Binary Tests.swift
+//  LeetCodeTests
+//
+//  Created by Firsenko Andrew on 11.01.2026.
+//
+
+import Testing
+@testable import LeetCode
+
+struct Solution67Tests {
+	// MARK: - Private Properties
+	private let sut = Solution67()
+
+	// MARK: - Tests
+	@Test
+	func test1() {
+		// when
+		let result = sut.addBinary("11", "1")
+		// then
+		#expect(result == "100")
+	}
+
+	@Test
+	func test2() {
+		// when
+		let result = sut.addBinary("1010", "1011")
+		// then
+		#expect(result == "10101")
+	}
+
+	@Test
+	func test3() {
+		// when
+		let result = sut.addBinary(
+			"10100000100100110110010000010101111011011001101110111111111101000000101111001110001111100001101",
+			"110101001011101110001111100110001010100001101011101010000011011011001011101111001100000011011110011"
+		)
+		// then
+		#expect(result == "110111101100010011000101110110100000011101000101011001000011011000001100011110011010010011000000000")
+	}
+
+	@Test
+	func test4() {
+		// when
+		let result = sut.addBinary(
+			"11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+			"1"
+		)
+		// then
+		#expect(result == "100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
+	}
+}
