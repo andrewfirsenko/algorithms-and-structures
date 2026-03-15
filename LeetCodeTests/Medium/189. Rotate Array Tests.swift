@@ -42,4 +42,24 @@ struct Solution189Tests {
         // then
         #expect(nums == [2,3,1])
     }
+    
+    @Test
+    func test_4() {
+        // given
+        var nums = [1]
+        // when
+        sut.rotate(&nums, 1)
+        // then
+        #expect(nums == [1])
+    }
+    
+    @Test
+    func test_5() {
+        // given
+        var nums = [1,2,3,4,5,6]
+        // when
+        sut.rotate(&nums, 4)
+        // then
+        #expect(nums == [3,4,5,6,1,2])
+    }
 }
