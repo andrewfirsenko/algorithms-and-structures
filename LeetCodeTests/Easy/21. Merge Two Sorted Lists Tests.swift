@@ -16,8 +16,8 @@ struct Solution21Tests {
     @Test
     func test1() {
         // given
-        let list1 = Solution21.ListNode(values: [1,2,4])
-        let list2 = Solution21.ListNode(values: [1,3,4])
+        let list1 = ListNode(values: [1,2,4])
+        let list2 = ListNode(values: [1,3,4])
         // when
         let result = sut.mergeTwoLists(list1, list2)
         // then
@@ -27,8 +27,8 @@ struct Solution21Tests {
     @Test
     func test2() {
         // given
-        let list1 = Solution21.ListNode(values: [])
-        let list2 = Solution21.ListNode(values: [])
+        let list1 = ListNode(values: [])
+        let list2 = ListNode(values: [])
         // when
         let result = sut.mergeTwoLists(list1, list2)
         // then
@@ -38,8 +38,8 @@ struct Solution21Tests {
     @Test
     func test3() {
         // given
-        let list1 = Solution21.ListNode(values: [])
-        let list2 = Solution21.ListNode(values: [0])
+        let list1 = ListNode(values: [])
+        let list2 = ListNode(values: [0])
         // when
         let result = sut.mergeTwoLists(list1, list2)
         // then
@@ -49,8 +49,8 @@ struct Solution21Tests {
     @Test
     func test4() {
         // given
-        let list1 = Solution21.ListNode(values: [-9,3])
-        let list2 = Solution21.ListNode(values: [5,7])
+        let list1 = ListNode(values: [-9,3])
+        let list2 = ListNode(values: [5,7])
         // when
         let result = sut.mergeTwoLists(list1, list2)
         // then

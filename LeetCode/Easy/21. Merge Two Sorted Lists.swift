@@ -8,14 +8,6 @@
 import Foundation
 
 class Solution21 {
-    public class ListNode {
-        public var val: Int
-        public var next: ListNode?
-        public init() { self.val = 0; self.next = nil; }
-        public init(_ val: Int) { self.val = val; self.next = nil; }
-        public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
-    }
-    
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
         guard let list1, let list2 else {
             if let list1 {  return list1 }
@@ -56,33 +48,5 @@ class Solution21 {
         }
         
         return result.next
-    }
-}
-
-extension Solution21.ListNode {
-    convenience init?(values: [Int]) {
-        guard !values.isEmpty else {
-            return nil
-        }
-        
-        var prevNode: Solution21.ListNode?
-        values.dropFirst().reversed().forEach { value in
-            let node = Solution21.ListNode(value, prevNode)
-            prevNode = node
-        }
-        
-        self.init(values.first!, prevNode)
-    }
-    
-    func toArray() -> [Int] {
-        var result: [Int] = []
-        
-        var next: Solution21.ListNode? = self
-        while let val = next?.val {
-            result.append(val)
-            next = next?.next
-        }
-        
-        return result
     }
 }
