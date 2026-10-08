@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		492B49092F0F9C47000091D8 /* AdventOfCode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 492B49002F0F9C47000091D8 /* AdventOfCode.framework */; };
+		49C21B24307781E500C9E56C /* DataStructures in Frameworks */ = {isa = PBXBuildFile; productRef = 49C21B23307781E500C9E56C /* DataStructures */; };
+		49C21B26307781F000C9E56C /* DataStructures in Frameworks */ = {isa = PBXBuildFile; productRef = 49C21B25307781F000C9E56C /* DataStructures */; };
 		49EE58FB2EF7E7B40010EB8B /* LeetCode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49EE58F22EF7E7B40010EB8B /* LeetCode.framework */; };
 		49EE5ACF2EFFDDDB0010EB8B /* Sorting.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49EE5AC62EFFDDDA0010EB8B /* Sorting.framework */; };
 		49EE5B9A2F0012D30010EB8B /* Searching.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49EE5B912F0012D30010EB8B /* Searching.framework */; };
@@ -140,6 +142,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49C21B24307781E500C9E56C /* DataStructures in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,6 +150,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49C21B26307781F000C9E56C /* DataStructures in Frameworks */,
 				49EE58FB2EF7E7B40010EB8B /* LeetCode.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -196,6 +200,7 @@
 				49EE5B9D2F0012D30010EB8B /* SearchingTests */,
 				492B49012F0F9C47000091D8 /* AdventOfCode */,
 				492B490C2F0F9C47000091D8 /* AdventOfCodeTests */,
+				49C21B22307781E500C9E56C /* Frameworks */,
 				492232E62D578D8F00084FB1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -218,6 +223,13 @@
 		4991526C2D589650001F3780 /* Products */ = {
 			isa = PBXGroup;
 			name = Products;
+			sourceTree = "<group>";
+		};
+		49C21B22307781E500C9E56C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -318,6 +330,7 @@
 			);
 			name = LeetCode;
 			packageProductDependencies = (
+				49C21B23307781E500C9E56C /* DataStructures */,
 			);
 			productName = LeetCode;
 			productReference = 49EE58F22EF7E7B40010EB8B /* LeetCode.framework */;
@@ -341,6 +354,7 @@
 			);
 			name = LeetCodeTests;
 			packageProductDependencies = (
+				49C21B25307781F000C9E56C /* DataStructures */,
 			);
 			productName = LeetCodeTests;
 			productReference = 49EE58FA2EF7E7B40010EB8B /* LeetCodeTests.xctest */;
@@ -487,6 +501,7 @@
 			mainGroup = 492232DC2D578D8F00084FB1;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
+				49C21B21307781D700C9E56C /* XCLocalSwiftPackageReference "Packages/DataStructures" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 492232E62D578D8F00084FB1 /* Products */;
@@ -916,7 +931,7 @@
 		49EE59022EF7E7B50010EB8B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -953,7 +968,7 @@
 		49EE59032EF7E7B50010EB8B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -1323,6 +1338,26 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		49C21B21307781D700C9E56C /* XCLocalSwiftPackageReference "Packages/DataStructures" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/DataStructures;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		49C21B23307781E500C9E56C /* DataStructures */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 49C21B21307781D700C9E56C /* XCLocalSwiftPackageReference "Packages/DataStructures" */;
+			productName = DataStructures;
+		};
+		49C21B25307781F000C9E56C /* DataStructures */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 49C21B21307781D700C9E56C /* XCLocalSwiftPackageReference "Packages/DataStructures" */;
+			productName = DataStructures;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 492232DD2D578D8F00084FB1 /* Project object */;
 }

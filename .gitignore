@@ -1,2 +1,5 @@
 .DS_Store
 xcuserdata/
+# Swift Package Manager
+.build/
+.swiftpm/

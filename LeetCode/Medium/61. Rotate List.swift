@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import DataStructures
 
 class Solution61 {
     func rotateRight(_ head: ListNode?, _ k: Int) -> ListNode? {

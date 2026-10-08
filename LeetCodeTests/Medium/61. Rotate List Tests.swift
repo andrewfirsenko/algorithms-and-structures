@@ -9,6 +9,7 @@ import Foundation
 
 import Testing
 @testable import LeetCode
+import DataStructures
 
 struct Solution61Tests {
     // MARK: - Private Properties
@@ -18,20 +19,20 @@ struct Solution61Tests {
     @Test
     func test1() {
         // given
-        let head = ListNode(values: [1,2,3,4,5])
+        let head = ListNode([1,2,3,4,5])
         // when
         let result = sut.rotateRight(head, 2)
         // then
-        #expect(result?.toArray() == [4,5,1,2,3])
+        #expect(result.array == [4,5,1,2,3])
     }
     
     @Test
     func test2() {
         // given
-        let head = ListNode(values: [0,1,2])
+        let head = ListNode([0,1,2])
         // when
         let result = sut.rotateRight(head, 4)
         // then
-        #expect(result?.toArray() == [2,0,1])
+        #expect(result.array == [2,0,1])
     }
 }

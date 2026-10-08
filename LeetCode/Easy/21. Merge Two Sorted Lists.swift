@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import DataStructures
 
 class Solution21 {
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
