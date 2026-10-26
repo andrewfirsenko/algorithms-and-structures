@@ -21,9 +21,10 @@
 - `Searching/` — алгоритмы поиска
 (Linear Search, Binary Search и т.п.)
 - `LeetCode/` — решения задач LeetCode
-- `AdventOfCode/` - решение задач с сайта adventofcode.com
 - `Playground/` — эксперименты, контесты и черновики
 - `*Tests/` — тесты для алгоритмов и задач
+
+Решения Advent of Code живут в отдельном репозитории [advent-of-code](https://github.com/andrewfirsenko/advent-of-code).
 
 ## 📚 Мини-документация по функционалу
 
