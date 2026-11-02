@@ -72,7 +72,6 @@
 		4AB1C0DE0000000000000007 /* Exceptions for "Playground" folder in "Playground" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Contest_1/contest-40164-ru.pdf,
 				Contest_1/contest_1_a.cpp,
 				Contest_1/contest_1_b.cpp,
 				Contest_1/contest_1_c.cpp,
@@ -80,11 +79,12 @@
 				Contest_1/contest_1_e.cpp,
 				Contest_1/contest_1_f.cpp,
 				Contest_1/contest_1_h.cpp,
+				"Contest_1/contest-40164-ru.pdf",
+				Contest_2/contest_2_a.cpp,
 				Contest_2/Contest_2_B.playground/Contents.swift,
 				Contest_2/Contest_2_B.playground/contents.xcplayground,
 				Contest_2/Contest_2_B.swift,
-				Contest_2/contest-40293-ru.pdf,
-				Contest_2/contest_2_a.cpp,
+				"Contest_2/contest-40293-ru.pdf",
 				Euclid/euclid.cpp,
 				Euclid/euclid.hpp,
 				Factorial/factorial.cpp,
@@ -101,9 +101,9 @@
 				"Implement Stack using Queues.playground/contents.xcplayground",
 				Karatsuba/karatsuba.cpp,
 				Karatsuba/karatsuba.hpp,
+				main.swift,
 				MergeTwoSortedArray/merge_two_sorted_array.cpp,
 				MergeTwoSortedArray/merge_two_sorted_array.hpp,
-				main.swift,
 			);
 			target = 4AB1C0DE0000000000000005 /* Playground */;
 		};
@@ -237,6 +237,7 @@
 				49EE5B9D2F0012D30010EB8B /* SearchingTests */,
 				49C21B22307781E500C9E56C /* Frameworks */,
 				492232E62D578D8F00084FB1 /* Products */,
+				497053DF3099276C00ABDFD2 /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -253,6 +254,14 @@
 				4AB1C0DE0000000000000002 /* PlaygroundTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		497053DF3099276C00ABDFD2 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				4991526A2D589650001F3780 /* AlgorithmsAndStructures.xcodeproj */,
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 		4991526C2D589650001F3780 /* Products */ = {
@@ -497,12 +506,6 @@
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					4AB1C0DE0000000000000005 = {
-						CreatedOnToolsVersion = 26.2;
-					};
-					4AB1C0DE0000000000000006 = {
-						CreatedOnToolsVersion = 26.2;
-					};
 					49EE58F12EF7E7B40010EB8B = {
 						CreatedOnToolsVersion = 16.4;
 					};
@@ -523,6 +526,12 @@
 					49EE5B982F0012D30010EB8B = {
 						CreatedOnToolsVersion = 16.4;
 						LastSwiftMigration = 1640;
+					};
+					4AB1C0DE0000000000000005 = {
+						CreatedOnToolsVersion = 26.2;
+					};
+					4AB1C0DE0000000000000006 = {
+						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
